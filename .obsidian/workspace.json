@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d62f127fcb7e148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Docker/00.00 Вспомогательные команды терминала/Команда ifconfig.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Команда ifconfig"
-            }
-          },
-          {
             "id": "4a7f6759353ae9d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README.md"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +160,13 @@
             }
           },
           {
-            "id": "2037fd0e28ff9872",
+            "id": "2913cb31be6f163f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -208,35 +189,35 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "4a7f6759353ae9d5",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "03. Docker/00.00 Вспомогательные команды терминала/Команда ifconfig.md",
-    "README.md.md",
-    "02. Computer-Networks/02. Топология сетей/Виды топологий сети.md",
-    "02. Computer-Networks/01. Классификация сетей/Тип коммутации.md",
-    "02. Computer-Networks/01. Классификация сетей/Технологии передачи.md",
-    "02. Computer-Networks/01. Классификация сетей/Протяженность сетей.md",
-    "01. Operating-Systems/Unix/00.01. Команды терминала/Cmp команда терминала.md",
-    "01. Operating-Systems/Unix/00.01. Команды терминала/Apropos команда терминала.md",
+    "02. Computer-Networks/09. MAC адреса/Типы Mac-адресов.md",
+    "02. Computer-Networks/09. MAC адреса/MAC-адрес.md",
+    "01. Operating-Systems/Unix/00.02. Системные вызовы/Ioctl системный вызов.md",
+    "02. Computer-Networks/12. Wi-Fi/Wi-Fi.md",
+    "02. Computer-Networks/08. Ethernet/Уровни Ethernet.md",
+    "02. Computer-Networks/08. Ethernet/Таблица коммутации.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
+    "03. Docker/07. Сети Docker/Сеть MACVLAN.md",
+    "02. Computer-Networks/16. Управляющие протоколы сетевого уровня/Протокол ARP.md",
+    "02. Computer-Networks/07. Канальный уровень OSI/Подуровни Канального уровня OSI.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
+    "03. Docker/00.00 Вспомогательные команды терминала/Команда ip addr.md",
+    "01. Operating-Systems/Unix/04. Окружение и Bash/Графическое окружение.md",
+    "02. Computer-Networks/14. IP-адреса/Виды адресов.md",
+    "02. Computer-Networks/16. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
+    "02. Computer-Networks/16. Управляющие протоколы сетевого уровня/Алгоритм работы ARP.md",
+    "02. Computer-Networks/08. Ethernet/Алгоритм обратного обучения.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Амперсанд в перенаправлении потоков.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Перенаправление стандартного вывода и стандартного вывода ошибок в один файл.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
+    "Тык.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Перенаправление стандартного вывода.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Битоприемник (Bit Bucket).md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Канал (Pipe).md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Фильтр.md",
+    "01. Operating-Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Файловый дескриптор (FD).md",
     "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
-    "01. Operating-Systems/Unix/00.01. Команды терминала/Alias команда терминала.md",
-    "01. Operating-Systems/Unix/00.01. Команды терминала/Команды для работы с пакетами.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Транслятор.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Процедурно и проблемно ориентированные языки.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Машинный язык.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Макропроцессор (Макрос).md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Линковщик.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Компилятор.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Интерпретатор.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Загрузчик.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.05. Ассемблер, трансляция и языки/Ассемблер.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.04. Внешние устройства/Типы каналов ввода вывода.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.04. Внешние устройства/Спулинг (Spooling).md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.04. Внешние устройства/Периферийные устройства.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.04. Внешние устройства/Каналы ввода вывода.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.04. Внешние устройства/Захват цикла памяти (Cycle Stealing).md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.03. Материнская плата/Часы истинного времени.md",
-    "01. Operating-Systems/Unix/06. Железо и трансляция/06.03. Материнская плата/Материнская плата.md",
     "04. Algorithms-and-Data-Structures",
     "04. Algorithms-and-Data-Structures/Теория/Структуры данных",
     "04. Algorithms-and-Data-Structures/Теория/Алгоритмы",
