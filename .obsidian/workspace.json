@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Python/Лямбда функция.md",
+                "file": "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/49. Group Anagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лямбда функция"
+              "title": "49. Group Anagrams"
             }
           }
         ]
@@ -193,15 +193,22 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "4a7f6759353ae9d5",
   "lastOpenFiles": [
-    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/347. Top K Frequent Elements.md",
+    "04. Algorithms-and-Data-Structures/Теория/Алгоритмы/O-большое.md",
+    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/49. Group Anagrams.md",
+    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/238. Product of Array Except Self.md",
+    "04. Algorithms-and-Data-Structures/Теория/Структуры данных/Связный список.md",
     "05. Python/Лямбда функция.md",
+    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/347. Top K Frequent Elements.md",
+    "04. Algorithms-and-Data-Structures/Теория/Структуры данных/Кэширование.md",
+    "04. Algorithms-and-Data-Structures/Теория/Структуры данных/Массив.md",
+    "04. Algorithms-and-Data-Structures/Теория/Алгоритмы/Рекурсия.md",
+    "04. Algorithms-and-Data-Structures/Теория/Структуры данных/Стек.md",
+    "01. Operating-Systems/Unix/06. Железо и трансляция/06.01. Процессор/Кэш память.md",
     "05. Python/Словарь в Python.md",
     "05. Python/Кортеж в Python.md",
-    "04. Algorithms-and-Data-Structures/Теория/Алгоритмы/O-большое.md",
     "05. Python/Sorted в Python.md",
-    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium/49. Group Anagrams.md",
     "04. Algorithms-and-Data-Structures/Задачи Leetcode/Easy/1. Two Sum.md",
     "04. Algorithms-and-Data-Structures/Задачи Leetcode/Easy/217. Contains Duplicate.md",
     "04. Algorithms-and-Data-Structures/Задачи Leetcode/Easy/242. Valid Anagram.md",
@@ -214,14 +221,7 @@
     "03. Docker/05. Docker Swarm/Кластер Docker Engine.md",
     "03. Docker/06. Docker Compose/Переменные окружения в Docker Compose.md",
     "03. Docker/06. Docker Compose/Docker Compose.md",
-    "03. Docker/05. Docker Swarm/Задача (Task) в Swarm.md",
-    "05. Python/Метод Startswith.md",
     "05. Python",
-    "01. Operating-Systems/Unix/00.02. Системные вызовы/Exec системный вызов.md",
-    "01. Operating-Systems/Unix/01. Ядро и процессы/01.02. Процессы/Процесс Сирота (Orphan).md",
-    "01. Operating-Systems/Unix/00.02. Системные вызовы/Wait системный вызов.md",
-    "01. Operating-Systems/Unix/01. Ядро и процессы/01.02. Процессы/Процесс Зомби (Zombie).md",
-    "02. Computer-Networks/11. Протокол STP/Протокол STP.md",
     "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
     "04. Algorithms-and-Data-Structures",
     "04. Algorithms-and-Data-Structures/Теория/Структуры данных",
