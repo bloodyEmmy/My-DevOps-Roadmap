@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "eeb79f2151146120",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e425b687f099e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7f6759353ae9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Docker/07. Сети Docker/VXLAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VXLAN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f17fd6323c13c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b56d9a30c8d21c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0335aabd4c36c4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d967c165546965c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "24cf6603ae63ae8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "right": {
+    "id": "d039eb2cfe35e9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c758e34f2709ee55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26f9be9936fe8fa6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4cb8611aa9fc129c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "ea543d7ebd47ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a77a520ebb06208",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b87b3b490a15173d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "гойда.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура гойда"
+            }
+          },
+          {
+            "id": "ffc70b0a1fa95da2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
+    }
+  },
+  "active": "4a7f6759353ae9d5",
+  "lastOpenFiles": [
+    "03. Docker/07. Сети Docker/Loopback.md",
+    "03. Docker/07. Сети Docker/Фреймворк Netfilter.md",
+    "03. Docker/07. Сети Docker/Технология NAT (Network Address Translation).md",
+    "03. Docker/07. Сети Docker/Сеть Overlay.md",
+    "03. Docker/07. Сети Docker/Сеть None.md",
+    "03. Docker/07. Сети Docker/Сеть MACVLAN.md",
+    "03. Docker/07. Сети Docker/Сеть Host.md",
+    "03. Docker/07. Сети Docker/Сеть Bridge.md",
+    "03. Docker/07. Сети Docker/Сеть хоста.md",
+    "03. Docker/07. Сети Docker/Сети в Docker.md",
+    "03. Docker/07. Сети Docker/Пространства имен (namespaces).md",
+    "03. Docker/07. Сети Docker/Использование пространства имен существующего контейнера.md",
+    "03. Docker/06. Docker Compose/Docker Compose.md",
+    "03. Docker/06. Docker Compose/Переменные окружения в Docker Compose.md",
+    "03. Docker/05. Docker Swarm/Raft Log.md",
+    "03. Docker/05. Docker Swarm/Raft Consensus.md",
+    "03. Docker/05. Docker Swarm/Overlay Network.md",
+    "03. Docker/05. Docker Swarm/Ingress Network.md",
+    "03. Docker/05. Docker Swarm/Etcd.md",
+    "03. Docker/05. Docker Swarm/Docker_gwbridge.md",
+    "03. Docker/05. Docker Swarm/Docker Swarm.md",
+    "03. Docker/05. Docker Swarm/Управляющие узлы (manager nodes).md",
+    "03. Docker/05. Docker Swarm/Узлы в Swarm (Nodes).md",
+    "03. Docker/05. Docker Swarm/Токен.md",
+    "03. Docker/05. Docker Swarm/Типы статусов узлов Swarm.md",
+    "03. Docker/05. Docker Swarm/Состояния задачи в Swarm.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
+    "Без названия",
+    "06. Computer Architecture",
+    "05. Python",
+    "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
+    "04. Algorithms and Data Structures",
+    "04. Algorithms and Data Structures/Теория/Структуры данных",
+    "04. Algorithms and Data Structures/Теория/Алгоритмы",
+    "04. Algorithms-and-Data-Structures/Теория/Python",
+    "04. Algorithms and Data Structures/Теория"
+  ]
+}
