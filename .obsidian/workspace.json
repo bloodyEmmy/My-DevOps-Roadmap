@@ -11,10 +11,14 @@
             "id": "4a7f6759353ae9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Syslog vs Journald.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syslog vs Journald"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 376.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -189,43 +193,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "4a7f6759353ae9d5",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "03. Docker/07. Сети Docker/Loopback.md",
-    "03. Docker/01. Контейнеризация и Docker/Образ контейнера (Docker Image).md",
-    "06. Computer Architecture/06.01. Процессор/Ядро процессора.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Транслятор.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Процедурно и проблемно ориентированные языки.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Машинный язык.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Макропроцессор (Макрос).md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Линковщик.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Компилятор.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Интерпретатор.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Journald (Systemd).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Syslog vs Journald.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Systemd (Init).md",
+    "Без названия.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Syslog.md",
+    "01. Operating Systems/Unix/05. Инструменты/05.03. Сеть/SSH (Secure Shell).md",
+    "01. Operating Systems/Unix/05. Инструменты/05.03. Сеть/SSH Клиент.md",
+    "02. Computer Networks/08. Ethernet/Коммутатор (switch).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Юнит (Systemd).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Таргеты (Systemd).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Основные состояния процессов.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Перевод процессов в фоновый режим.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Непрерываемый сон процесса (D-state).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Жизненный цикл Systemd.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
+    "Без названия",
+    "03. Docker/05. Docker Swarm/Состояния задачи в Swarm.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Графическое окружение.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Командная оболочка.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Иерархия памяти компьютера.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Символические ссылки (Мягкие, Симлинк).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Режимы работы компьютера.md",
     "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Загрузчик.md",
-    "06. Computer Architecture/06.05. Ассемблер, трансляция и языки/Ассемблер.md",
-    "06. Computer Architecture/06.04. Внешние устройства/Типы каналов ввода вывода.md",
-    "06. Computer Architecture/06.04. Внешние устройства/Спулинг (Spooling).md",
-    "06. Computer Architecture/06.04. Внешние устройства/Периферийные устройства.md",
-    "06. Computer Architecture/06.04. Внешние устройства/Каналы ввода вывода.md",
-    "06. Computer Architecture/06.04. Внешние устройства/Захват цикла памяти (Cycle Stealing).md",
-    "06. Computer Architecture/06.03. Материнская плата/Часы истинного времени.md",
-    "06. Computer Architecture/06.03. Материнская плата/Материнская плата.md",
-    "06. Computer Architecture/06.03. Материнская плата/Интервальный таймер.md",
-    "06. Computer Architecture/06.02. ОЗУ/Метод граничных регистров.md",
-    "06. Computer Architecture/06.02. ОЗУ/Расслоение памяти (Интерливинг).md",
-    "06. Computer Architecture/06.02. ОЗУ/Прямой доступ к памяти (ПДП).md",
-    "06. Computer Architecture/06.02. ОЗУ/Относительная адресация.md",
-    "06. Computer Architecture/06.02. ОЗУ/Оперативная память (ОЗУ).md",
-    "06. Computer Architecture/06.02. ОЗУ/Метод ключей защиты памяти.md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Kill системный вызов.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс Сирота (Orphan).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Load Average.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/CPU% vs Load Average.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Файловая система.md",
     "06. Computer Architecture",
     "05. Python",
     "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
-    "04. Algorithms-and-Data-Structures",
-    "04. Algorithms-and-Data-Structures/Теория/Структуры данных",
-    "04. Algorithms-and-Data-Structures/Теория/Алгоритмы",
+    "04. Algorithms and Data Structures",
+    "04. Algorithms and Data Structures/Теория/Структуры данных",
+    "04. Algorithms and Data Structures/Теория/Алгоритмы",
     "04. Algorithms-and-Data-Structures/Теория/Python",
-    "04. Algorithms-and-Data-Structures/Теория",
-    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Medium",
-    "04. Algorithms-and-Data-Structures/Задачи Leetcode/Easy"
+    "04. Algorithms and Data Structures/Теория"
   ]
 }
