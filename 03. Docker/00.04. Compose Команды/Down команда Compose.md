@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Останавливает и удаляет [[Контейнер|контейнер]], [[Сеть Docker|сети]], [[Том Docker|тома]] и [[Образ контейнера (Docker Image)|образы]], созданные при помощи [[Up команда Compose|compose up]].
 ***

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Показывает подробную информацию о [[Docker Daemon]] и системе в целом.
 ***

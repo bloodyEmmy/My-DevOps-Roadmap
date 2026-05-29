@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Orthonogal Frequency Division Multiplexing.
 ***Перевод***: Мультиплексирование с ортогональным частотным разделением.

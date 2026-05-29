@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 | 4 бита | 4 бита | 8 бит | 16 бит |
 | - - - | - - - | - - - | - - - |

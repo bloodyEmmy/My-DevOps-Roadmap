@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 - Собирает новый [[Образ контейнера (Docker Image)|образ]] из [[Dockerfile]] и контекста сборки путем чтения Dockerfile последовательно построчно.
 - Создает последовательность [[Слой (layer)|слоев]] образа на основе инструкций [[FROM команда Dockerfile|FROM]], [[RUN команда Dockerfile|RUN]], `COPY` и др.

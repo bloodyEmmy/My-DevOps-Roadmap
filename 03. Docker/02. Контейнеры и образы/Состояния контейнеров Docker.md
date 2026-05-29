@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 - `Running` - выполняется == `UP`.
 - `Paused` - приостановлен.

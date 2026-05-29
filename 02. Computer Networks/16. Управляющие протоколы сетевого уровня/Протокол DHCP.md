@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Dynamic Host Configuration Protocol
 ***Перевод***: Протокол ([[Протокол уровня]]) динамической конфигурации хостов.

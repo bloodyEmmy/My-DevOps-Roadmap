@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 1. Кадры данных.
 	- Передача данных.

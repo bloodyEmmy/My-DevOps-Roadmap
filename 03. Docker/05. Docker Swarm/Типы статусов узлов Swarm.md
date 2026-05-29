@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 1. ***STATUS*** - доступность [[Узлы в Swarm (Nodes)]] в [[Кластер Swarm]].
 	- READY - Узел работает нормально, [[Docker Daemon]] запущен и отвечает, может принимать задачи.

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Bridge Protocol Data Units.
 Это специальные кадры, которые передаются между [[Коммутатор (switch)]] по всем портам.

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Пара Ключ=Значение, которую администратор прикрепляет к [[Узлы в Swarm (Nodes)]] для их классификации, организации, разделения окружений и др.
 ***Примеры***: env=production, datacenter=us-east, disk=ssd, team=backend...

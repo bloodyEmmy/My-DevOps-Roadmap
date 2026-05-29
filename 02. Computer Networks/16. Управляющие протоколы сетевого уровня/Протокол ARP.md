@@ -1,4 +1,4 @@
-#flashcards 
+#flashcards/network
 ***
 ***Расшифровка***: Address Resolution Protocol
 ***Перевод***: Протокол разрешения адресов.

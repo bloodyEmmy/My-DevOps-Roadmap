@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Multiple Access with Collision Avoidance.
 ***Перевод***: Множественный доступ с избежанием коллизий.

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Spanning Tree Protocol.
 ***Перевод***: Протокол [[Протокол уровня]] Связующего (остовного) дерева.

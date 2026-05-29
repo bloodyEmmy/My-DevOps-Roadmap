@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 Формат кадра технологии [[Ethernet]].
 ***

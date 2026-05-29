@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Более старая версия [[Команда ip addr|ip addr]].
 - Если выполнить ее внутри [[Контейнер|контейнера]], то увидим интерфейс `eth0` ([[Virtual Ethernet Pair (Veth)|veth]], подключенный к [[Сеть Bridge|сети Bridge]]), а также `loopback (lo)` для обращения к сервисам внутри себя.

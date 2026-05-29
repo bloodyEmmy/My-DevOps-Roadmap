@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c9c90f1936c744ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d9e624f8320e498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5404646aaed872f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Сети Docker/VXLAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VXLAN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "387c4a7263bbf2c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce5a5e172944162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e1e14770c6aac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c4b1e4c4129b0676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ce3856eb0eca1e3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "946731203639488b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8962b1b79fbcaf27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365094d15a1e7b2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Контейнеризация и Docker/Docker Client (CLI).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Docker Client (CLI)"
+            }
+          },
+          {
+            "id": "f8fcd76f5f850b82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Контейнеризация и Docker/Docker Client (CLI).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Docker Client (CLI)"
+            }
+          },
+          {
+            "id": "270062644f91d1d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d7d4bca1f53edf8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Контейнеризация и Docker/Docker Client (CLI).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Docker Client (CLI)"
+            }
+          },
+          {
+            "id": "094ba55edd1f170e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false
+    }
+  },
+  "active": "5404646aaed872f3",
+  "lastOpenFiles": [
+    "07. Сети Docker/Пространства имен (namespaces).md",
+    "07. Сети Docker/VXLAN.md",
+    "07. Сети Docker/Loopback.md",
+    "07. Сети Docker/Сеть Overlay.md",
+    "05. Docker Swarm/Ingress Network.md",
+    "04. Модель Container Network и сетевой мост Docker/Сетевые драйверы Docker.md",
+    "04. Модель Container Network и сетевой мост Docker/Собственные (встроенные) сетевые драйверы Docker.md",
+    "07. Сети Docker/Сеть хоста.md",
+    "00.00 Вспомогательные команды/Команда \"ip route\".md",
+    "00.00 Вспомогательные команды/Команда \"ip addr\".md",
+    "00.00 Вспомогательные команды/Команда \"which docker\".md",
+    "00.00 Вспомогательные команды/Команда \"ifconfig\".md",
+    "07. Сети Docker/Сеть MACVLAN.md",
+    "07. Сети Docker/Сети в Docker.md",
+    "01. Контейнеризация и Docker/Микросервис.md",
+    "01. Контейнеризация и Docker/Docker Rest API.md",
+    "01. Контейнеризация и Docker/Docker Hub, Registry.md",
+    "07. Сети Docker/Фреймворк Netfilter.md",
+    "00.04. Compose Команды/Раздел Compose \"networks\".md",
+    "00.04. Compose Команды/Раздел Compose \"restart\".md",
+    "00.04. Compose Команды/Раздел Compose \"ports\".md",
+    "07. Сети Docker/Технология NAT (Network Address Translation).md",
+    "07. Сети Docker/Сеть Host.md",
+    "00.03. Swarm Команды/Команда \"service scale\".md",
+    "00.03. Swarm Команды/Команда \"service rollback\".md",
+    "00.03. Swarm Команды/Команда \"service rm\".md",
+    "00.00 Вспомогательные команды",
+    "07. Сети Docker",
+    "00.04. Compose Команды",
+    "06. Docker Compose",
+    "00.03. Swarm Команды",
+    "05. Docker Swarm",
+    "04. Модель Container Network и сетевой мост Docker",
+    "03. Драйверы хранилища и тома",
+    "00.02. Docker Команды",
+    "00.01. Dockerfile Команды",
+    "Без названия.canvas"
+  ]
+}

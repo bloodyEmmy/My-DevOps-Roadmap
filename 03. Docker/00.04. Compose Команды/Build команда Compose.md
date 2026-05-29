@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Собирает [[Образ контейнера (Docker Image)|образ]] из [[Dockerfile]], указанных при помощи [[Build раздел Compose|build]].
 ***Синтаксис.***

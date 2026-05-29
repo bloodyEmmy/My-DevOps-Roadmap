@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Создает новый [[Сервис в Swarm|сервис]].
 ***Синтаксис.***

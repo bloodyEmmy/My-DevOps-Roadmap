@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Удаляет [[Сервис в Swarm|сервис]].
 ***Синтаксис.***

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Virtual Local Area Network.
 ***Перевод***: Виртуальная локальная сеть.

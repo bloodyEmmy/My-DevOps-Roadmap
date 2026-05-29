@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Позволяет работать с [[Узлы в Swarm (Nodes)|узлами]] в [[Кластер Swarm|кластере]].
 ***Синтаксис.***

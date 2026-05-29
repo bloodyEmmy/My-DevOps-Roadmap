@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Удаляет [[Образ контейнера (Docker Image)|образ]] (один или несколько) из локального реестра [[Docker]].
 ***

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Если [[Docker]] скачан через `Snap`, то адрес такой:
 `/var/snap/docker/common/var-lib-docker/overlay2/`. 

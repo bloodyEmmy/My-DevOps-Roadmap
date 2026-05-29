@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/Docker
 ***
 Список всех [[Сервис в Swarm|сервисов]].
 ***Синтаксис.***

@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Carrier Sense Multiple Access with Collision Avoidance
 ***

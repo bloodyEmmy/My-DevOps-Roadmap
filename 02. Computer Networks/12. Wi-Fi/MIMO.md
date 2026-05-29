@@ -1,4 +1,4 @@
-#flashcards
+#flashcards/network
 ***
 ***Расшифровка***: Multiple Input, Multiple Output.
 ***Перевод***: Множественная передача, множественный прием.
