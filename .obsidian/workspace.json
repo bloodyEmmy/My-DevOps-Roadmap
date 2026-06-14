@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/07. Сети Docker/VXLAN.md",
+                "file": "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Монтирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VXLAN"
+              "title": "Монтирование"
+            }
+          },
+          {
+            "id": "c6ac6410ba39528f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "суперпользо",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +85,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,34 +205,34 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "4a7f6759353ae9d5",
+  "active": "c6ac6410ba39528f",
   "lastOpenFiles": [
-    "03. Docker/07. Сети Docker/Loopback.md",
-    "03. Docker/07. Сети Docker/Фреймворк Netfilter.md",
-    "03. Docker/07. Сети Docker/Технология NAT (Network Address Translation).md",
-    "03. Docker/07. Сети Docker/Сеть Overlay.md",
-    "03. Docker/07. Сети Docker/Сеть None.md",
-    "03. Docker/07. Сети Docker/Сеть MACVLAN.md",
-    "03. Docker/07. Сети Docker/Сеть Host.md",
-    "03. Docker/07. Сети Docker/Сеть Bridge.md",
-    "03. Docker/07. Сети Docker/Сеть хоста.md",
-    "03. Docker/07. Сети Docker/Сети в Docker.md",
-    "03. Docker/07. Сети Docker/Пространства имен (namespaces).md",
-    "03. Docker/07. Сети Docker/Использование пространства имен существующего контейнера.md",
-    "03. Docker/06. Docker Compose/Docker Compose.md",
-    "03. Docker/06. Docker Compose/Переменные окружения в Docker Compose.md",
-    "03. Docker/05. Docker Swarm/Raft Log.md",
-    "03. Docker/05. Docker Swarm/Raft Consensus.md",
-    "03. Docker/05. Docker Swarm/Overlay Network.md",
-    "03. Docker/05. Docker Swarm/Ingress Network.md",
-    "03. Docker/05. Docker Swarm/Etcd.md",
-    "03. Docker/05. Docker Swarm/Docker_gwbridge.md",
-    "03. Docker/05. Docker Swarm/Docker Swarm.md",
-    "03. Docker/05. Docker Swarm/Управляющие узлы (manager nodes).md",
-    "03. Docker/05. Docker Swarm/Узлы в Swarm (Nodes).md",
-    "03. Docker/05. Docker Swarm/Токен.md",
-    "03. Docker/05. Docker Swarm/Типы статусов узлов Swarm.md",
-    "03. Docker/05. Docker Swarm/Состояния задачи в Swarm.md",
+    "05. Python/Метод Startswith.md",
+    "03. Docker/00.01. Dockerfile Команды/USER команда Dockerfile.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Umount команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Sudo команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Su команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Passwd команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Mount команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Mkfs команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Locate команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Kill, killall команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Fdisk команда терминала.md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Chown системный вызов.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Chown команда терминала.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Суперпользователь (root).md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Chmod системный вызов.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Chmod команда терминала.md",
+    "03. Docker/03. Драйверы хранилища и тома/Том Docker.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Изменение идентичности.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Бит sticky.md",
+    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Перенаправление стандартного вывода.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Bash.md",
+    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Командная оболочка.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Окружение.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Права доступа к файлу.md",
+    "06. Computer Architecture/06.02. ОЗУ/Оперативная память (ОЗУ).md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
     "Без названия",
     "06. Computer Architecture",
