@@ -25,10 +25,14 @@
             "id": "c6ac6410ba39528f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "06. Computer Architecture/06.03. Материнская плата/Интервальный таймер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интервальный таймер"
             }
           }
         ],
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "суперпользо",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +89,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,32 +210,32 @@
   },
   "active": "c6ac6410ba39528f",
   "lastOpenFiles": [
-    "05. Python/Метод Startswith.md",
-    "03. Docker/00.01. Dockerfile Команды/USER команда Dockerfile.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Umount команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Sudo команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Su команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Passwd команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Mount команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Mkfs команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Locate команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Kill, killall команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Fdisk команда терминала.md",
-    "01. Operating Systems/Unix/00.02. Системные вызовы/Chown системный вызов.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Chown команда терминала.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Суперпользователь (root).md",
-    "01. Operating Systems/Unix/00.02. Системные вызовы/Chmod системный вызов.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Chmod команда терминала.md",
-    "03. Docker/03. Драйверы хранилища и тома/Том Docker.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Изменение идентичности.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Бит sticky.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Перенаправление стандартного вывода.md",
-    "01. Operating Systems/Unix/04. Окружение и Bash/Bash.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
-    "01. Operating Systems/Unix/04. Окружение и Bash/Командная оболочка.md",
-    "01. Operating Systems/Unix/04. Окружение и Bash/Окружение.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.02. Права и атрибуты/Права доступа к файлу.md",
-    "06. Computer Architecture/06.02. ОЗУ/Оперативная память (ОЗУ).md",
+    "02. Computer Networks/15. Протокол IP/Протокол IP.md",
+    "02. Computer Networks/15. Протокол IP/Фрагментация.md",
+    "02. Computer Networks/15. Протокол IP/TTL (Time To Live).md",
+    "02. Computer Networks/15. Протокол IP/Формат заголовка IP-пакета.md",
+    "02. Computer Networks/15. Протокол IP/Таблица Маршрутизации.md",
+    "02. Computer Networks/08. Ethernet/Передача кадра в CSMA CD.md",
+    "02. Computer Networks/07. Канальный уровень OSI/Методы выделения кадров Канальным уровнем OSI.md",
+    "02. Computer Networks/08. Ethernet/CSMA CD.md",
+    "02. Computer Networks/08. Ethernet/Классический Ethernet.md",
+    "02. Computer Networks/08. Ethernet/Концентратор (Hub).md",
+    "02. Computer Networks/08. Ethernet/Ethernet.md",
+    "02. Computer Networks/09. MAC адреса/MAC-адрес.md",
+    "02. Computer Networks/09. MAC адреса/Типы Mac-адресов.md",
+    "02. Computer Networks/16. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/IP Adress Management (IPAM).md",
+    "02. Computer Networks/14. IP-адреса/Подсеть.md",
+    "03. Docker/07. Сети Docker/Использование пространства имен существующего контейнера.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Syslog.md",
+    "03. Docker/05. Docker Swarm/Docker_gwbridge.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
+    "02. Computer Networks/16. Управляющие протоколы сетевого уровня/Протокол ARP.md",
+    "02. Computer Networks/13. Сетевой уровень OSI/Маршрутизатор (Роутер).md",
+    "02. Computer Networks/13. Сетевой уровень OSI/Маршрутизатор по умолчанию.md",
+    "03. Docker/00.02. Docker Команды/Start команда Docker.md",
+    "03. Docker/00.02. Docker Команды/Create команда Docker.md",
+    "03. Docker/00.02. Docker Команды/Inspect команда Docker.md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
     "Без названия",
     "06. Computer Architecture",
