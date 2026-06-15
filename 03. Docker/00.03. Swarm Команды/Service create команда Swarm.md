@@ -12,3 +12,4 @@ docker service create <флаги> <образ> <команда> <аргумен
 3. `--mode <replicated|global>` - Тип сервиса. По умолчанию `replicated`.
 4. `--mount type=<volume|bind>,source=<source>,target=<target>` - [[Bind Mount (Монтирование каталогов с хоста)|Монтирование]] [[Том Docker|тома]].
 5. `--network < network>` - Подключение к [[Сеть Docker|сети]].
+<!--SR:!2026-06-17,1,230-->

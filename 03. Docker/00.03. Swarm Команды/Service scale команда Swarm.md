@@ -11,3 +11,4 @@ docker service scale <сервис>=<реплика> ...
 1. `docker service scale web=5`
 2. `docker service scale web=5 api=3 worker=10`
 3. `docker service scale web=0` (остановить все реплики)
+<!--SR:!2026-06-17,1,230-->

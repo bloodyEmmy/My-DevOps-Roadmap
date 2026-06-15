@@ -11,3 +11,4 @@ FROM ubuntu:22.04
 RUN apt-get update && apt-get install -y curl
 RUN mkdir /app
 ```
+<!--SR:!2026-06-19,3,250-->
