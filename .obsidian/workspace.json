@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/05. Docker Swarm/Виды статусов узлов Swarm.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды статусов узлов Swarm"
+              "title": "README"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "64575bae11511447",
   "lastOpenFiles": [
-    "03. Docker/05. Docker Swarm/Узел в Swarm (Nodes).md",
     "03. Docker/05. Docker Swarm/Виды статусов узлов Swarm.md",
+    "03. Docker/05. Docker Swarm/Узел в Swarm (Nodes).md",
     "03. Docker/05. Docker Swarm/Raft Consensus.md",
     "03. Docker/02. Контейнеры и образы/Лог контейнера.md",
     "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
