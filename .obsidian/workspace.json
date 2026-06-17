@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b770fb5cd681e3c8",
+        "id": "fe803b48cf903a1c",
         "type": "tabs",
         "children": [
           {
-            "id": "64575bae11511447",
+            "id": "704f223463b501ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/05. Docker Swarm/Кластер Swarm.md",
+                "file": "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Механизм скользящего окна.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кластер Swarm"
+              "title": "Механизм скользящего окна"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -193,43 +193,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "64575bae11511447",
+  "active": "704f223463b501ff",
   "lastOpenFiles": [
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Обмен данными по протоколу TCP, защита от ошибок.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Механизм скользящего окна.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Сокет (Socket).md",
+    "01. Operating Systems/Unix/00.03. Библиотечные функции языка Си/Closedir библиотечная функция.md",
+    "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация/Маршрутизатор (Роутер).md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/CSMA CA.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/Подтверждение получения данных Wi-Fi (Реализация CSMA CA).md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/CSMA CD.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Протокол TCP.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/Протокол MACA.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/Типы кадров в Wi-Fi.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Протокол UDP.md",
     "03. Docker/03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
-    "03. Docker/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация/Передача пакетов на сетевом и канальном уровнях.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Таблица Маршрутизации.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Протокол ARP.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений/VLAN.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений/MAC-адрес.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Traceroute команда терминала.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Протокол ICMP.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Ping команда терминала.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Типы ICMP-сообщений.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
-    "02. Computer Networks/01. Топология, уровни и модели/Модель OSI.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Сервис уровня.md",
     "02. Computer Networks/01. Топология, уровни и модели/Модель TCP IP.md",
-    "README.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Управляющие протоколы сетевого уровня.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Назначение адресов в DHCP.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Алгоритм работы ARP.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений/Типы Mac-адресов.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Подсеть.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/TTL (Time To Live).md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Формат заголовка IP-пакета.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Фрагментация.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация/Сетевой уровень OSI.md",
-    "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация/Проблемы масштабируемости Ethernet.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Стек протоколов TCP IP.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Передача данных через сокет и порт.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP",
+    "07. Client Server Architecture/Клиент Серверная Архитектура.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
+    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/IP-адрес.md",
+    "03. Docker/00.01. Dockerfile Команды/EXPOSE команда Dockerfile.md",
+    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Протокол IP.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров/Заголовок.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Транспортный уровень OSI.md",
+    "06. Computer Architecture/05. Сетевая карта",
+    "02. Computer Networks/04. Транспортный уровень",
     "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация",
     "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений",
     "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров",
     "02. Computer Networks/01. Топология, уровни и модели",
     "07. Client Server Architecture",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
-    "06. Computer Architecture",
-    "05. Python",
-    "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
-    "04. Algorithms and Data Structures"
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС"
   ]
 }
