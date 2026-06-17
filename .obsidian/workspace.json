@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Протокол ICMP.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Протокол ICMP"
+              "title": "README"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "64575bae11511447",
   "lastOpenFiles": [
+    "Протокол ICMP.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Управляющие протоколы сетевого уровня.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.03. Управляющие протоколы сетевого уровня/Протокол ARP.md",
@@ -220,7 +221,6 @@
     "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/IP-адрес.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Широковещательный (broadcast) тип IP-адреса.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/Типы IP-адресов.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений/MAC-адрес.md",
     "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация",
     "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений",
     "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров",

@@ -1,7 +1,7 @@
 ## Как использовать
 1. Склонируйте этот репозиторий.
 ```bash
-git clone git@github.com:bloodyEmmy/My-DevOps.git
+git clone git@github.com:bloodyEmmy/My-DevOps-Roadmap.git
 ```
 2. Откройте скачанную папку в приложении Obsidian через функцию ***"Open folder as vault"***. Это позволит корректно отображать форматирование и переходить по внутренним ссылкам между заметками.
 3. В базе используется сторонний плагин ***"Spaced Repetition"*** для интервального повторения тем. При запуске Obsidian спросит о доверии плагинам - нажмите ***"Trust author and enable plugins"***.
