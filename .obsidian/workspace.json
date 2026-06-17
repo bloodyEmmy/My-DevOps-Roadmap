@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Jam-последовательность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Jam-последовательность"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 365.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -195,41 +195,41 @@
   },
   "active": "64575bae11511447",
   "lastOpenFiles": [
-    "03. Docker/05. Docker Swarm/Виды статусов узлов Swarm.md",
-    "03. Docker/05. Docker Swarm/Узел в Swarm (Nodes).md",
-    "03. Docker/05. Docker Swarm/Raft Consensus.md",
-    "03. Docker/02. Контейнеры и образы/Лог контейнера.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
-    "03. Docker/05. Docker Swarm/Управляющие узлы (manager nodes).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Монтирование.md",
-    "06. Computer Architecture/06.03. Материнская плата/Интервальный таймер.md",
-    "03. Docker/07. Сети Docker/Сеть MACVLAN.md",
-    "03. Docker/03. Драйверы хранилища и тома/Backing Filesystem.md",
-    "03. Docker/00.02. Docker Команды/Start команда Docker.md",
-    "03. Docker/02. Контейнеры и образы/Драйвер журналирования.md",
-    "03. Docker/05. Docker Swarm/Сервис в Swarm.md",
-    "03. Docker/07. Сети Docker/Технология NAT (Network Address Translation).md",
-    "03. Docker/05. Docker Swarm/Кластер Swarm.md",
-    "02. Computer Networks/15. Протокол IP/Маршрутизация.md",
-    "02. Computer Networks/03. Основы организации сетей/Интерфейс уровня.md",
-    "02. Computer Networks/15. Протокол IP/TTL (Time To Live).md",
-    "02. Computer Networks/04. Модель OSI (Основы)/Модель OSI (Основы).md",
-    "02. Computer Networks/07. Канальный уровень OSI/Методы выделения кадров Канальным уровнем OSI.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Ethernet II.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Уровни Ethernet.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Ethernet.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/CSMA CD.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Протокол уровня.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Таблица коммутации.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Передача кадра в CSMA CD.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Методы выделения кадров Канальным уровнем OSI.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Концентратор (Hub).md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Коммутируемый Ethernet.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Коммутатор (switch).md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Классический Ethernet.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Алгоритм обратного обучения.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Канальный уровень OSI.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Заголовок.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Виды топологий сети.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Подуровни Канального уровня OSI.md",
+    "02. Computer Networks/13. Сетевой уровень OSI/Сетевой уровень OSI.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Модель OSI (Основы).md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства/Концевик.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Сервис уровня.md",
     "02. Computer Networks/09. MAC адреса/MAC-адрес.md",
-    "02. Computer Networks/16. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
-    "02. Computer Networks/14. IP-адреса/IP-адрес.md",
-    "02. Computer Networks/14. IP-адреса/Типы IP-адресов.md",
-    "02. Computer Networks/14. IP-адреса/Широковещательный (broadcast) тип IP-адреса.md",
-    "02. Computer Networks/14. IP-адреса/Виды широковещательных IP-адресов.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Устройство, основы устройства",
+    "02. Computer Networks/09. MAC адреса/Типы Mac-адресов.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Открытая система.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Физический уровень OSI.md",
+    "02. Computer Networks/01. Топология, уровни и модели",
+    "07. Client Server Architecture",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС",
-    "Без названия",
     "06. Computer Architecture",
     "05. Python",
     "01. Operating-Systems/Unix/00.01. Команды терминала/seddv7n5U",
     "04. Algorithms and Data Structures",
     "04. Algorithms and Data Structures/Теория/Структуры данных",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы",
-    "04. Algorithms-and-Data-Structures/Теория/Python",
-    "04. Algorithms and Data Structures/Теория"
+    "04. Algorithms and Data Structures/Теория/Алгоритмы"
   ]
 }
