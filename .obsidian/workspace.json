@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "704f223463b501ff",
+            "id": "0eb038a6e8ef70fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Управление потоком (Flow Control).md",
+                "file": "07. Client Server Architecture/Алгоритм подключения клиента и сервера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление потоком (Flow Control)"
+              "title": "Алгоритм подключения клиента и сервера"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 207.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -193,34 +193,36 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "704f223463b501ff",
+  "active": "0eb038a6e8ef70fd",
   "lastOpenFiles": [
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Управление потоком (Flow Control).md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/ACK.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров/Заголовок.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Обмен данными по протоколу TCP, защита от ошибок.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Протокол TCP.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Скользящее окно.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Установка и завершение TCP соединения (рукопожатия).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/Затопление (Flooding).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/SYN Flood.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Канал (Pipe).md",
-    "06. Computer Architecture/02. ОЗУ/Буфер.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.02. Ethernet/Передача кадра в CSMA CD.md",
-    "01. Operating Systems/Unix/00.03. Библиотечные функции языка Си/Closedir библиотечная функция.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.02. Перенаправления/Перенаправление стандартного вывода.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Unix.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Операционная система (ОС).md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Ядро операционной системы.md",
-    "02. Computer Networks/01. Топология, уровни и модели/Протокол уровня.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Файловая система.md",
-    "README.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/SYN.md",
-    "03. Docker/04. Модель Container Network и сетевой мост Docker/Мост Linux.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров/Концевик.md",
-    "02. Computer Networks/02. Канальный уровень OSI/02.04. Wi-Fi/Подтверждение получения данных Wi-Fi (Реализация CSMA CA).md",
-    "01. Operating Systems/Unix/05. Инструменты/05.03. Сеть/SSH (Secure Shell).md",
+    "07. Client Server Architecture/Подключенный сокет.md",
+    "07. Client Server Architecture/Алгоритм подключения клиента и сервера.md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Lseek системный вызов.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Установка и завершение TCP соединения (рукопожатия).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/SYN.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Сокет (Socket).md",
+    "07. Client Server Architecture/Слушающий сокет.md",
+    "07. Client Server Architecture/Клиент (Клиент Серверная Архитектура).md",
+    "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
+    "07. Client Server Architecture/Клиент Серверная Архитектура.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Explicit Congestion Notification (ECN).md",
+    "02. Computer Networks/03. Сетевой уровень OSI/03.02. IP-адрес, протокол IP/IP-адрес.md",
+    "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров/Канальный уровень OSI.md",
+    "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация/Сетевой уровень OSI.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Способы борьбы с перегрузкой TCP.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/TCP Global Synchronization.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Перегрузка в TCP.md",
+    "Задержка сегмента.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Медленный старт (Метод TCP).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/AIMD.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Окно перегрузки.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Zero Window Probe.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/RRT (Round Trip Time).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Скользящее окно.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Популярный метод борьбы с перегрузкой в TCP (Медленный старт + AIMD).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Управление потоком (Flow Control).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP",
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP",
     "06. Computer Architecture/05. Сетевая карта",
@@ -228,8 +230,6 @@
     "02. Computer Networks/03. Сетевой уровень OSI/03.01. Маршрутизация",
     "02. Computer Networks/02. Канальный уровень OSI/02.03. Адресация, построение соединений",
     "02. Computer Networks/02. Канальный уровень OSI/02.01. Основы устройства уровня и кадров",
-    "02. Computer Networks/01. Топология, уровни и модели",
-    "07. Client Server Architecture",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС"
+    "02. Computer Networks/01. Топология, уровни и модели"
   ]
 }
