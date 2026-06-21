@@ -13,15 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прикладной уровень.md",
+                "file": "Домен.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прикладной уровень"
+              "title": "Домен"
+            }
+          },
+          {
+            "id": "e6c9d65ab331a5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домен"
+            }
+          },
+          {
+            "id": "9454b2a4878dd09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домен"
+            }
+          },
+          {
+            "id": "8dc9c8b0a3d84412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домен"
+            }
+          },
+          {
+            "id": "d464c8ab8e16bff5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 234.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -193,10 +246,21 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "d33b698cb6c5a403",
+  "active": "d464c8ab8e16bff5",
   "lastOpenFiles": [
+    "Третий уровень домена.md",
+    "Домен.md",
+    "SLD уровень домена.md",
+    "Иерархия DNS (Строение дерева).md",
+    "TLD уровень домена.md",
+    "Root уровень домена.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Domain Name System (DNS).md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Прикладной уровень.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Стек протоколов TCP IP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS",
+    "02. Computer Networks/01. Топология, уровни и модели/Модель TCP IP.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Модель OSI.md",
     "02. Computer Networks/01. Топология, уровни и модели/Физический уровень.md",
-    "Прикладной уровень.md",
     "03. Docker/00.01. Dockerfile Команды/EXPOSE команда Dockerfile.md",
     "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Канальный уровень.md",
     "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Сетевой уровень.md",
@@ -212,16 +276,6 @@
     "03. Docker/05. Docker Swarm/Docker_gwbridge.md",
     "03. Docker/05. Docker Swarm/Кластер Swarm.md",
     "03. Docker/05. Docker Swarm/Overlay Network.md",
-    "03. Docker/05. Docker Swarm/Задача (Task) в Swarm.md",
-    "03. Docker/05. Docker Swarm/Метка (Label).md",
-    "03. Docker/05. Docker Swarm/Токен.md",
-    "03. Docker/05. Docker Swarm/Raft Log.md",
-    "03. Docker/05. Docker Swarm/Etcd.md",
-    "03. Docker/05. Docker Swarm/Рабочие узлы (worker nodes).md",
-    "03. Docker/04. Модель Container Network и сетевой мост Docker/Сеть Docker.md",
-    "03. Docker/04. Модель Container Network и сетевой мост Docker/Container Network Model (CNM).md",
-    "03. Docker/04. Модель Container Network и сетевой мост Docker/Virtual Ethernet Pair (Veth).md",
-    "03. Docker/04. Модель Container Network и сетевой мост Docker/IP Adress Management (IPAM).md",
     "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы",
@@ -229,7 +283,6 @@
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP",
     "06. Computer Architecture/05. Сетевая карта",
     "02. Computer Networks/04. Транспортный уровень",
-    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация",
-    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений"
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация"
   ]
 }
