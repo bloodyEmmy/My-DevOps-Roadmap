@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d464c8ab8e16bff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Протокол DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Протокол DNS"
-            }
-          },
-          {
             "id": "c34ff186d40c24de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Итеративный сервер.md",
+                "file": "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Открытый (Публичный) DNS сервер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Итеративный сервер"
+              "title": "Открытый (Публичный) DNS сервер"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,34 +193,34 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "c34ff186d40c24de",
+  "active": "cb92030a3a0abb72",
   "lastOpenFiles": [
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Итеративный сервер.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Открытый (Публичный) DNS сервер.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Explicit Congestion Notification (ECN).md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Локальный DNS сервер.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Домен.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/SLD уровень домена.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Root уровень домена.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/NS сервер (Name Server).md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Domain Name System (DNS).md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Итеративный DNS сервер.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный DNS сервер.md",
+    "06. Computer Architecture/00. Ассемблер, трансляция и языки/Процедурно и проблемно ориентированные языки.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Dd команда терминала.md",
     "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Wi-Fi.md",
     "06. Computer Architecture/01. Процессор/Кэш память процессора.md",
     "04. Algorithms and Data Structures/Теория/Структуры данных/Кэширование.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный сервер.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/NS сервер (Name Server).md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Домен.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/SLD уровень домена.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Domain Name System (DNS).md",
     "Протокол DNS.md",
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Типы портов.md",
     "02. Computer Networks/01. Топология, уровни и модели/Стек протоколов TCP IP.md",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Третий уровень домена (Поддомен).md",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/TLD уровень домена.md",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Прикладной уровень.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Root уровень домена.md",
     "03. Docker/07. Сети Docker/Сеть MACVLAN.md",
     "03. Docker/00.03. Swarm Команды/Service scale команда Swarm.md",
     "03. Docker/04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
     "03. Docker/04. Модель Container Network и сетевой мост Docker/Мост Linux.md",
     "03. Docker/04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
-    "03. Docker/03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
-    "03. Docker/03. Драйверы хранилища и тома/OverlayFS.md",
-    "03. Docker/03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
-    "03. Docker/03. Драйверы хранилища и тома/Backing Filesystem.md",
-    "03. Docker/03. Драйверы хранилища и тома/Флаг монтировки ro.md",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS",
     "02. Computer Networks/05. Прикладной уровень",
     "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall",
