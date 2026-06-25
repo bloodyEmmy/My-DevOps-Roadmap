@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d2810d258c85f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Методы HTTP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Методы HTTP"
-            }
-          },
-          {
             "id": "d66b77668ae5e7a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/03. Драйверы хранилища и тома/Backing Filesystem.md",
+                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прокси сервер (Proxy).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backing Filesystem"
+              "title": "Прокси сервер (Proxy)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 246.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -210,41 +195,41 @@
   },
   "active": "d66b77668ae5e7a4",
   "lastOpenFiles": [
-    "03. Docker/00.01. Dockerfile Команды/ADD команда Dockerfile.md",
-    "03. Docker/00.00 Вспомогательные команды терминала/Команда which docker.md",
-    "03. Docker/00.00 Вспомогательные команды терминала/Команда ip route.md",
-    "03. Docker/00.00 Вспомогательные команды терминала/Команда ip addr.md",
-    "03. Docker/00.00 Вспомогательные команды терминала/Команда ifconfig.md",
-    "07. Client Server Architecture/Клиент Серверная Архитектура.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Структура пакета HTTP.md",
-    "07. Client Server Architecture/Алгоритм подключения клиента и сервера.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Протокол HTTP.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Протокол TCP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Статусы HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/PUT vs POST.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Методы HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/World Wibe Web (WWW).md",
-    "03. Docker/07. Сети Docker/VXLAN.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Uniform Resource Locator (URL).md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0347. Top K Frequent Elements.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0238. Product of Array Except Self.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0049. Group Anagrams.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0242. Valid Anagram.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0217. Contains Duplicate.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0001. Two Sum.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Протокол DNS.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прозрачный прокси (Transparent Proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прокси сервер (Proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Искажающий прокси (Distorting Proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Анонимный прокси (Anonymous Proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прямой прокси сервер (Forward proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Кэширование в HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Резолвер (Stub Resolver).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Обратный прокси сервер (Reverse proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/World Wibe Web (WWW).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Uniform Resource Locator (URL).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/HTTP Pipelining.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/PUT vs POST.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Структура пакета HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Стойкие (постоянные) HTTP соединения.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Статусы HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Протокол HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Непрерывные (короткие) HTTP соединения.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Методы (запросы) HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы",
+    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall/Network Address Translation (NAT).md",
+    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall/Таблица NAT.md",
+    "04. Algorithms and Data Structures/Теория/Структуры данных/Кэширование.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный DNS сервер.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Медленный старт (Метод TCP).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Скользящее окно.md",
+    "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Заголовок.md",
+    "07. Client Server Architecture/Слушающий сокет.md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP",
-    "03. Docker/02. Контейнеры и образы/Контейнер.md",
-    "Резолвер (Stub Resolver).md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Domain Name System (DNS).md",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS",
     "02. Computer Networks/05. Прикладной уровень",
     "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы",
     "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP",
-    "06. Computer Architecture/05. Сетевая карта",
-    "02. Computer Networks/04. Транспортный уровень"
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP"
   ]
 }
