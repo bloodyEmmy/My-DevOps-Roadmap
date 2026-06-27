@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прокси сервер (Proxy).md",
+                "file": "01. Operating Systems/Unix/00.01. Команды терминала/Who команда терминала.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прокси сервер (Proxy)"
+              "title": "Who команда терминала"
+            }
+          },
+          {
+            "id": "dde4ad30b42a7365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Авторизация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Авторизация"
+            }
+          },
+          {
+            "id": "8d4d6368ec53c784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вычисляемое поле SQL"
+            }
+          },
+          {
+            "id": "13ccf0ab723a9b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вычисляемое поле SQL"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,43 +236,42 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "d66b77668ae5e7a4",
+  "active": "13ccf0ab723a9b99",
   "lastOpenFiles": [
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прозрачный прокси (Transparent Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прокси сервер (Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Искажающий прокси (Distorting Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Анонимный прокси (Anonymous Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Прямой прокси сервер (Forward proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Кэширование в HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Резолвер (Stub Resolver).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Обратный прокси сервер (Reverse proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/World Wibe Web (WWW).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Uniform Resource Locator (URL).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/HTTP Pipelining.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/PUT vs POST.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Структура пакета HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Стойкие (постоянные) HTTP соединения.md",
+    "08. Databases/01. SQL/01. Основы/Подзапрос SQL.md",
+    "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
+    "08. Databases/01. SQL/01. Основы",
+    "08. Databases/01. SQL/01. Основы/Склеивание строк SQL.md",
+    "08. Databases/01. SQL",
+    "08. Databases/01. SQL/00. Операторы SQL/WHERE оператор SQL.md",
+    "08. Databases/01. SQL/00. Операторы SQL/SELECT оператор SQL.md",
+    "08. Databases/01. SQL/00. Операторы SQL/ORDER BY оператор SQL.md",
+    "08. Databases/01. SQL/00. Операторы SQL/AS оператора SELECT SQL.md",
+    "08. Databases/01. SQL/00. Операторы SQL/DISTINCT оператора SELECT.md",
+    "08. Databases/01. SQL/00. Операторы SQL/FROM оператор SQL.md",
+    "Аутентификация.md",
+    "Авторизация.md",
+    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/MAC-адрес.md",
+    "08. Databases",
+    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Proc (VFS).md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
+    "03. Docker/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
+    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Базовый набор сервисов Wi-Fi.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Who команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Sudo команда терминала.md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Статусы HTTP.md",
+    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Роуминг.md",
+    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Режимы аутентификации Wi-Fi.md",
+    "Идентификация.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Анонимный прокси (Anonymous Proxy).md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Протокол HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Непрерывные (короткие) HTTP соединения.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Методы (запросы) HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы",
-    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall/Network Address Translation (NAT).md",
-    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall/Таблица NAT.md",
-    "04. Algorithms and Data Structures/Теория/Структуры данных/Кэширование.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный DNS сервер.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Медленный старт (Метод TCP).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Скользящее окно.md",
-    "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Заголовок.md",
-    "07. Client Server Architecture/Слушающий сокет.md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP",
     "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS",
     "02. Computer Networks/05. Прикладной уровень",
     "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP"
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка"
   ]
 }
