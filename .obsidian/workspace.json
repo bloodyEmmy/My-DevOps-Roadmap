@@ -41,30 +41,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
+                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Авторизация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вычисляемое поле SQL"
+              "title": "Авторизация"
             }
           },
           {
-            "id": "13ccf0ab723a9b99",
+            "id": "57eee6e399d8c59b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
+                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вычисляемое поле SQL"
+              "title": "Разделяемая память PostgreSQL (Shared Memory)"
+            }
+          },
+          {
+            "id": "536011f546334239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Python/SQLAlchemy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQLAlchemy"
+            }
+          },
+          {
+            "id": "71b9945918ff970e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разделяемая память PostgreSQL (Shared Memory)"
+            }
+          },
+          {
+            "id": "981aea4de1e909e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/PostgreSQL/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL"
+            }
+          },
+          {
+            "id": "d741678d9c592c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разделяемая память PostgreSQL (Shared Memory)"
+            }
+          },
+          {
+            "id": "d1d9727c28a2a100",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -236,42 +302,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "13ccf0ab723a9b99",
+  "active": "d1d9727c28a2a100",
   "lastOpenFiles": [
-    "08. Databases/01. SQL/01. Основы/Подзапрос SQL.md",
-    "08. Databases/01. SQL/01. Основы/Вычисляемое поле SQL.md",
-    "08. Databases/01. SQL/01. Основы",
-    "08. Databases/01. SQL/01. Основы/Склеивание строк SQL.md",
-    "08. Databases/01. SQL",
-    "08. Databases/01. SQL/00. Операторы SQL/WHERE оператор SQL.md",
-    "08. Databases/01. SQL/00. Операторы SQL/SELECT оператор SQL.md",
-    "08. Databases/01. SQL/00. Операторы SQL/ORDER BY оператор SQL.md",
-    "08. Databases/01. SQL/00. Операторы SQL/AS оператора SELECT SQL.md",
-    "08. Databases/01. SQL/00. Операторы SQL/DISTINCT оператора SELECT.md",
-    "08. Databases/01. SQL/00. Операторы SQL/FROM оператор SQL.md",
-    "Аутентификация.md",
-    "Авторизация.md",
-    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/MAC-адрес.md",
-    "08. Databases",
-    "01. Operating Systems/Unix/02. Файловая система, права и атрибуты/02.01. Структура и ссылки/Proc (VFS).md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
+    "Процессная модель PostgreSQL.md",
+    "09. Automation/временное.md",
+    "08. Databases/PostgreSQL/Postmaster (postgres).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Демон.md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Fork системный вызов.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс.md",
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
-    "03. Docker/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Базовый набор сервисов Wi-Fi.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Who команда терминала.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Sudo команда терминала.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Статусы HTTP.md",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Роуминг.md",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Режимы аутентификации Wi-Fi.md",
-    "Идентификация.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Анонимный прокси (Anonymous Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Протокол HTTP.md",
+    "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
+    "08. Databases/Вступление/Состояние гонки (Race Condition).md",
+    "08. Databases/Вступление/Транзакция.md",
+    "08. Databases/Вступление/ORM (Object Relational Mapping).md",
+    "08. Databases/Вступление/WAL (Write Ahead Logging).md",
+    "01. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Резервное копирование.md",
+    "08. Databases/PostgreSQL/PostgreSQL.md",
+    "05. Python/SQLAlchemy.md",
+    "08. Databases/SQL/01. Основы/SQL инъекция.md",
+    "08. Databases/SQL/01. Основы/Параметризированные запросы (Подготовленные выражения) SQL.md",
+    "08. Databases/SQL/01. Основы/Подзапрос SQL.md",
+    "08. Databases/SQL/01. Основы/Склеивание строк SQL.md",
+    "08. Databases/SQL/01. Основы/Вычисляемое поле SQL.md",
+    "08. Databases/Вступление/Реляционная база данных.md",
+    "08. Databases/Вступление/СУБД (Системы Управления Базами Данных).md",
+    "08. Databases/Вступление",
+    "08. Databases/PostgreSQL",
+    "03. Docker/01. Контейнеризация и Docker/Docker.md",
+    "03. Docker/01. Контейнеризация и Docker/Образ контейнера (Docker Image).md",
+    "06. Computer Architecture/02. ОЗУ/Расслоение памяти (Интерливинг).md",
+    "03. Docker/00.04. Compose Команды/Services раздел Compose.md",
+    "09. Automation",
+    "08. Databases/SQL/01. Основы",
+    "08. Databases/SQL",
+    "08. Databases",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS",
-    "02. Computer Networks/05. Прикладной уровень",
-    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка"
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS"
   ]
 }
