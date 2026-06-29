@@ -8,129 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66b77668ae5e7a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Operating Systems/Unix/00.01. Команды терминала/Who команда терминала.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Who команда терминала"
-            }
-          },
-          {
-            "id": "dde4ad30b42a7365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Авторизация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Авторизация"
-            }
-          },
-          {
-            "id": "8d4d6368ec53c784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Авторизация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Авторизация"
-            }
-          },
-          {
-            "id": "57eee6e399d8c59b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разделяемая память PostgreSQL (Shared Memory)"
-            }
-          },
-          {
-            "id": "536011f546334239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05. Python/SQLAlchemy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQLAlchemy"
-            }
-          },
-          {
-            "id": "71b9945918ff970e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разделяемая память PostgreSQL (Shared Memory)"
-            }
-          },
-          {
-            "id": "981aea4de1e909e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Databases/PostgreSQL/PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
-          },
-          {
-            "id": "d741678d9c592c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Разделяемая память PostgreSQL (Shared Memory)"
-            }
-          },
-          {
             "id": "d1d9727c28a2a100",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "03. Docker/01. Контейнеризация и Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "2f75a3b016e286d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/временное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "временное"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,16 +208,23 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "d1d9727c28a2a100",
+  "active": "2f75a3b016e286d4",
   "lastOpenFiles": [
-    "Процессная модель PostgreSQL.md",
+    "03. Docker/02. Контейнеры и образы/Контейнер.md",
+    "03. Docker/05. Docker Swarm/Управляющие узлы (manager nodes).md",
+    "03. Docker/05. Docker Swarm/Raft Consensus.md",
+    "03. Docker/05. Docker Swarm/Рабочие узлы (worker nodes).md",
+    "03. Docker/01. Контейнеризация и Docker/Docker.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Статусы (коды) HTTP.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Авторизация.md",
+    "08. Databases/PostgreSQL/Процессная модель PostgreSQL.md",
+    "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
     "09. Automation/временное.md",
     "08. Databases/PostgreSQL/Postmaster (postgres).md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Демон.md",
     "01. Operating Systems/Unix/00.02. Системные вызовы/Fork системный вызов.md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс.md",
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
-    "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
     "08. Databases/Вступление/Состояние гонки (Race Condition).md",
     "08. Databases/Вступление/Транзакция.md",
     "08. Databases/Вступление/ORM (Object Relational Mapping).md",
@@ -323,15 +236,8 @@
     "08. Databases/SQL/01. Основы/Параметризированные запросы (Подготовленные выражения) SQL.md",
     "08. Databases/SQL/01. Основы/Подзапрос SQL.md",
     "08. Databases/SQL/01. Основы/Склеивание строк SQL.md",
-    "08. Databases/SQL/01. Основы/Вычисляемое поле SQL.md",
-    "08. Databases/Вступление/Реляционная база данных.md",
-    "08. Databases/Вступление/СУБД (Системы Управления Базами Данных).md",
     "08. Databases/Вступление",
     "08. Databases/PostgreSQL",
-    "03. Docker/01. Контейнеризация и Docker/Docker.md",
-    "03. Docker/01. Контейнеризация и Docker/Образ контейнера (Docker Image).md",
-    "06. Computer Architecture/02. ОЗУ/Расслоение памяти (Интерливинг).md",
-    "03. Docker/00.04. Compose Команды/Services раздел Compose.md",
     "09. Automation",
     "08. Databases/SQL/01. Основы",
     "08. Databases/SQL",
