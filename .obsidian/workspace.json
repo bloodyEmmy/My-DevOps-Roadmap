@@ -22,21 +22,133 @@
             }
           },
           {
-            "id": "2f75a3b016e286d4",
+            "id": "e7de601cb71fdb5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/временное.md",
+                "file": "08. Databases/Вступление/Объектно реляционное несоответствие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "временное"
+              "title": "Объектно реляционное несоответствие"
+            }
+          },
+          {
+            "id": "cd17fd4ac8ca1482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/MAC-адрес.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAC-адрес"
+            }
+          },
+          {
+            "id": "2345656f58c8229e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Структура пакета HTTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структура пакета HTTP"
+            }
+          },
+          {
+            "id": "513e132b9a79bda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/Вступление/Плоский вид (DTO).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Плоский вид (DTO)"
+            }
+          },
+          {
+            "id": "88dfe0c3d7026f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/Вступление/Маппер (Mapper) в базе данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Маппер (Mapper) в базе данных"
+            }
+          },
+          {
+            "id": "a62b9bf9c7b96fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/Вступление/DI контейнер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DI контейнер"
+            }
+          },
+          {
+            "id": "5e94b6ed2aeda206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Паттерн Repository (Репозиторий).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Паттерн Repository (Репозиторий)"
+            }
+          },
+          {
+            "id": "ebb6a23526778b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Databases/Вступление/Объектно реляционное несоответствие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Объектно реляционное несоответствие"
+            }
+          },
+          {
+            "id": "acdd4cc6ba3fb355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритм работы DHCP"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 214.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -208,34 +320,34 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "2f75a3b016e286d4",
+  "active": "5e94b6ed2aeda206",
   "lastOpenFiles": [
+    "08. Databases/Вступление/DI контейнер.md",
+    "Паттерн Repository (Репозиторий).md",
     "03. Docker/02. Контейнеры и образы/Контейнер.md",
-    "03. Docker/05. Docker Swarm/Управляющие узлы (manager nodes).md",
-    "03. Docker/05. Docker Swarm/Raft Consensus.md",
-    "03. Docker/05. Docker Swarm/Рабочие узлы (worker nodes).md",
-    "03. Docker/01. Контейнеризация и Docker/Docker.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Статусы (коды) HTTP.md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.02. Proxy/Авторизация.md",
-    "08. Databases/PostgreSQL/Процессная модель PostgreSQL.md",
-    "08. Databases/PostgreSQL/Разделяемая память PostgreSQL (Shared Memory).md",
-    "09. Automation/временное.md",
-    "08. Databases/PostgreSQL/Postmaster (postgres).md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Демон.md",
-    "01. Operating Systems/Unix/00.02. Системные вызовы/Fork системный вызов.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс.md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
-    "08. Databases/Вступление/Состояние гонки (Race Condition).md",
-    "08. Databases/Вступление/Транзакция.md",
-    "08. Databases/Вступление/ORM (Object Relational Mapping).md",
-    "08. Databases/Вступление/WAL (Write Ahead Logging).md",
-    "01. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Резервное копирование.md",
-    "08. Databases/PostgreSQL/PostgreSQL.md",
     "05. Python/SQLAlchemy.md",
-    "08. Databases/SQL/01. Основы/SQL инъекция.md",
-    "08. Databases/SQL/01. Основы/Параметризированные запросы (Подготовленные выражения) SQL.md",
-    "08. Databases/SQL/01. Основы/Подзапрос SQL.md",
-    "08. Databases/SQL/01. Основы/Склеивание строк SQL.md",
+    "08. Databases/Вступление/Маппер (Mapper) в базе данных.md",
+    "07. Client Server Architecture/Blueprint.md",
+    "03. Docker/01. Контейнеризация и Docker/Микросервис.md",
+    "08. Databases/Вступление/Плоский вид (DTO).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/AIMD.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Окно перегрузки.md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/05.02.01. Основы/Структура пакета HTTP.md",
+    "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Заголовок.md",
+    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/MAC-адрес.md",
+    "08. Databases/Вступление/Объектно реляционное несоответствие.md",
+    "09. Automation/временное.md",
+    "03. Docker/01. Контейнеризация и Docker/Docker.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Алгоритм работы DHCP.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Управляющие протоколы сетевого уровня.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Назначение адресов в DHCP.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Типы ICMP-сообщений.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол ARP.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Песочница (Sandbox).md",
+    "02. Computer Networks/04. Транспортный уровень/04.03. NAT и Firewall/Network Address Translation (NAT).md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Сетевой мост (Bridge) Docker.md",
+    "03. Docker/04. Модель Container Network и сетевой мост Docker/Конечная точка (Endpoint).md",
     "08. Databases/Вступление",
     "08. Databases/PostgreSQL",
     "09. Automation",
