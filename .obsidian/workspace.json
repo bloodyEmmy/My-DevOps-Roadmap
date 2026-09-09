@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Непрерывные (короткие) HTTP соединения.md",
+                "file": "06. Computer Architecture/00. Ассемблер, трансляция и языки/Драйвер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Непрерывные (короткие) HTTP соединения"
+              "title": "Драйвер"
+            }
+          },
+          {
+            "id": "c9d65d37ebc7d1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VPN (Virtual Private Network)"
+            }
+          },
+          {
+            "id": "1c4309b490a701aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/06. VPN/Туннель VPN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Туннель VPN"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tty",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 200
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -225,8 +253,28 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "bad469d513a7ead5",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
+    "02. Computer Networks/06. VPN/Инкапсуляция.md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Протокол IP.md",
+    "02. Computer Networks/06. VPN/Туннель VPN.md",
+    "02. Computer Networks/06. VPN/Сценарий работы VPN.md",
+    "02. Computer Networks/06. VPN",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прокси сервер (Proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прямой прокси сервер (Forward proxy).md",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Обратный прокси сервер (Reverse proxy).md",
+    "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
+    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
+    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Собственные (встроенные) сетевые драйверы Docker.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Ip команда терминала.md",
+    "06. Computer Architecture/00. Ассемблер, трансляция и языки/Драйвер.md",
+    "04. Algorithms and Data Structures/Теория/Алгоритмы/Два встречных указателя.md",
+    "04. Algorithms and Data Structures/Теория/Алгоритмы/Метод двух указателей (Two Pointers).md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Ping команда терминала.md",
+    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол ICMP.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/RTT (Round Trip Time).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Непрерывные (короткие) HTTP соединения.md",
     "Kubernetes.md",
     "Endpoint.md",
     "09. Automation/01. IaC/Single Source of Truth (SSoT).md",
@@ -234,26 +282,7 @@
     "01. Operating Systems/Unix/00.01. Команды терминала/Tty команда терминала.md",
     "01. Operating Systems/Unix/00.01. Команды терминала/Passwd команда терминала.md",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Push Model в Ansible.md",
-    "06. Computer Architecture/02. ОЗУ/Оперативная память (ОЗУ).md",
-    "06. Computer Architecture/01. Процессор/Процессор (CPU).md",
-    "06. Computer Architecture/01. Процессор/Ядро процессора.md",
-    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
-    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
-    "09. Automation/01. IaC/Самодокументируемость.md",
-    "09. Automation/01. IaC/Воспроизводимость.md",
-    "09. Automation/01. IaC/Декларативность.md",
-    "09. Automation/01. IaC/Идемпотентность.md",
-    "09. Automation/01. IaC/IaC.md",
-    "09. Automation/01. IaC/Императивность.md",
-    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Nginx.md",
     "09. Automation/01. IaC",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Протокол MACA.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Mkdir команда терминала.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Типы IP-адресов.md",
-    "07. Client Server Architecture/Кластер.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Less команда терминала.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Слой (Layer) в Docker.md",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
     "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь",
     "09. Automation/04. Ansible/01. Основа",
@@ -261,7 +290,6 @@
     "09. Automation/03. Vagrant/03. Устройство Vagrantfile",
     "09. Automation/03. Vagrant/00. Команды Vagrant",
     "09. Automation/03. Vagrant/02. База Vagrant",
-    "09. Automation/03. Vagrant/01. Основы виртуализации",
-    "09. Automation/03. Vagrant"
+    "09. Automation/03. Vagrant/01. Основы виртуализации"
   ]
 }
