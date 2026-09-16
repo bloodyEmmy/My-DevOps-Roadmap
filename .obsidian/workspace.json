@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb35e97941e6d1db",
+            "id": "4982169274e745e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
+                "file": "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/MTU (Maximum Transmission Unit).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VPN (Virtual Private Network)"
+              "title": "MTU (Maximum Transmission Unit)"
             }
           },
           {
-            "id": "fe2f749d665ace85",
+            "id": "e8d8accbe80fffc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Access VPN.md",
+                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remote Access VPN"
-            }
-          },
-          {
-            "id": "97898ec6fae24084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Access VPN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Remote Access VPN"
+              "title": "Фрагментация"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "маршрутизатор по умолчанию",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote Access VPN.md",
+                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote Access VPN.md",
+                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -226,34 +212,36 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "97898ec6fae24084",
+  "active": "e8d8accbe80fffc5",
   "lastOpenFiles": [
-    "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
-    "Site to Site VPN.md",
-    "Remote Access VPN.md",
-    "02. Computer Networks/06. VPN/Работа VPN на сетевом уровне (TUN).md",
-    "02. Computer Networks/06. VPN/Работа VPN на канальном уровне (TAP).md",
-    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
-    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
-    "Kubernetes.md",
-    "Поды (Pods) в Kubernetes.md",
-    "02. Computer Networks/06. VPN/Работа VPN на транспортном уровне.md",
-    "02. Computer Networks/06. VPN/Зачем поднимать VPN на транспортный уровень.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Протокол TCP.md",
-    "02. Computer Networks/01. Топология, уровни и модели/Модель OSI.md",
-    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Протокол STP.md",
-    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Проблемы масштабируемости Ethernet.md",
-    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Сетевой уровень.md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
-    "02. Computer Networks/02. Канальный уровень/02.02. Ethernet/Коммутатор (switch).md",
-    "02. Computer Networks/06. VPN/Использование ARP в VPN на канальном уровне.md",
-    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол ARP.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
-    "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
-    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Типы Mac-адресов.md",
-    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прокси сервер (Proxy).md",
-    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прямой прокси сервер (Forward proxy).md",
-    "02. Computer Networks/06. VPN/Туннель VPN.md",
+    "Превышение MTU в VPN.md",
+    "MSS Clamping.md",
+    "Уменьшение MTU на виртуальном интерфейсе.md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Инкапсуляция.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/MTU (Maximum Transmission Unit).md",
+    "09. Automation/03. Vagrant/00. Команды Vagrant/Ssh команда Vagrant.md",
+    "09. Automation/временное.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Решение проблемы петли маршрутизации в VPN.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Петля маршрутизации (Routing Loop).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Затопление (Flooding).md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/SYN Flood.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Установка и завершение TCP соединения (рукопожатия).md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Таблица маршрутизации.md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Маска подсети.md",
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Маршрутизатор по умолчанию.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Работа VPN на транспортном уровне.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Работа VPN на сетевом уровне (TUN).md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Раздельное туннелирование.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Полное туннелирование.md",
+    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Движение пакетов при драйвере Bridge в Docker.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Зачем поднимать VPN на транспортный уровень.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов",
+    "02. Computer Networks/06. VPN/06.01. Основы/Прозрачное шифрование.md",
+    "02. Computer Networks/06. VPN/06.01. Основы",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Утилита.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Site to Site VPN.md",
+    "02. Computer Networks/06. VPN/06.01. Основы/Remote Access VPN.md",
     "02. Computer Networks/06. VPN",
     "09. Automation/01. IaC",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
@@ -261,8 +249,6 @@
     "09. Automation/04. Ansible/01. Основа",
     "09. Automation/04. Ansible",
     "09. Automation/03. Vagrant/03. Устройство Vagrantfile",
-    "09. Automation/03. Vagrant/00. Команды Vagrant",
-    "09. Automation/03. Vagrant/02. База Vagrant",
-    "09. Automation/03. Vagrant/01. Основы виртуализации"
+    "09. Automation/03. Vagrant/00. Команды Vagrant"
   ]
 }
