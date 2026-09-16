@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de6b70d22dfe6098",
+        "id": "f69ccdbe6f8add8d",
         "type": "tabs",
         "children": [
           {
-            "id": "0397479880ec6313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Operating Systems/Unix/00.01. Команды терминала/Tty команда терминала.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tty команда терминала"
-            }
-          },
-          {
-            "id": "de70ed8cf8b08a1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kubernetes"
-            }
-          },
-          {
-            "id": "bad469d513a7ead5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Computer Architecture/00. Ассемблер, трансляция и языки/Драйвер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Драйвер"
-            }
-          },
-          {
-            "id": "c9d65d37ebc7d1af",
+            "id": "bb35e97941e6d1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,49 +22,35 @@
             }
           },
           {
-            "id": "1c4309b490a701aa",
+            "id": "fe2f749d665ace85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
+                "file": "Remote Access VPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VXLAN"
+              "title": "Remote Access VPN"
             }
           },
           {
-            "id": "c42612f0262d8d7d",
+            "id": "97898ec6fae24084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/06. VPN/Работа VPN на канальном уровне.md",
+                "file": "Remote Access VPN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа VPN на канальном уровне"
-            }
-          },
-          {
-            "id": "5b65f23835384d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Computer Networks/06. VPN/Работа VPN на сетевом уровне.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа VPN на сетевом уровне"
+              "title": "Remote Access VPN"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Протокол MACA.md",
+                "file": "Remote Access VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Протокол MACA"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -200,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Remote Access VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -262,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -281,35 +226,35 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "5b65f23835384d1c",
+  "active": "97898ec6fae24084",
   "lastOpenFiles": [
-    "02. Computer Networks/06. VPN/Работа VPN на канальном уровне.md",
+    "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
+    "Site to Site VPN.md",
+    "Remote Access VPN.md",
+    "02. Computer Networks/06. VPN/Работа VPN на сетевом уровне (TUN).md",
+    "02. Computer Networks/06. VPN/Работа VPN на канальном уровне (TAP).md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
+    "Kubernetes.md",
+    "Поды (Pods) в Kubernetes.md",
+    "02. Computer Networks/06. VPN/Работа VPN на транспортном уровне.md",
+    "02. Computer Networks/06. VPN/Зачем поднимать VPN на транспортный уровень.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Протокол TCP.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Модель OSI.md",
+    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Протокол STP.md",
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Проблемы масштабируемости Ethernet.md",
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Сетевой уровень.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
     "02. Computer Networks/02. Канальный уровень/02.02. Ethernet/Коммутатор (switch).md",
     "02. Computer Networks/06. VPN/Использование ARP в VPN на канальном уровне.md",
-    "02. Computer Networks/06. VPN/Работа VPN на сетевом уровне.md",
     "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол ARP.md",
     "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
     "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
     "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Типы Mac-адресов.md",
-    "Поды (Pods) в Kubernetes.md",
     "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прокси сервер (Proxy).md",
     "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Прямой прокси сервер (Forward proxy).md",
     "02. Computer Networks/06. VPN/Туннель VPN.md",
-    "02. Computer Networks/06. VPN/Инкапсуляция.md",
-    "02. Computer Networks/06. VPN/VPN (Virtual Private Network).md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
-    "06. Computer Architecture/00. Ассемблер, трансляция и языки/Драйвер.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Протокол IP.md",
     "02. Computer Networks/06. VPN",
-    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Обратный прокси сервер (Reverse proxy).md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Собственные (встроенные) сетевые драйверы Docker.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Ip команда терминала.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Два встречных указателя.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Метод двух указателей (Two Pointers).md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Ping команда терминала.md",
-    "02. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол ICMP.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/RTT (Round Trip Time).md",
     "09. Automation/01. IaC",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
     "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь",
