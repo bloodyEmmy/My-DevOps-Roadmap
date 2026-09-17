@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
+                "file": "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/MSS Clamping (Maximum Segment Size).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фрагментация"
+              "title": "MSS Clamping (Maximum Segment Size)"
             }
           }
         ],
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -212,12 +212,14 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e8d8accbe80fffc5",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "Превышение MTU в VPN.md",
-    "MSS Clamping.md",
-    "Уменьшение MTU на виртуальном интерфейсе.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Уменьшение MTU на виртуальном интерфейсе.md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/MSS Clamping (Maximum Segment Size).md",
+    "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/Превышение MTU в VPN.md",
     "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Идентификация.md",
+    "02. Computer Networks/01. Топология, уровни и модели/Уровни сети.md",
     "02. Computer Networks/06. VPN/06.01. Основы/Инкапсуляция.md",
     "02. Computer Networks/06. VPN/06.02. Туннелирование и передача пакетов/MTU (Maximum Transmission Unit).md",
     "09. Automation/03. Vagrant/00. Команды Vagrant/Ssh команда Vagrant.md",
@@ -240,8 +242,6 @@
     "02. Computer Networks/06. VPN/06.01. Основы/Прозрачное шифрование.md",
     "02. Computer Networks/06. VPN/06.01. Основы",
     "01. Operating Systems/Unix/04. Окружение и Bash/Утилита.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Site to Site VPN.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Remote Access VPN.md",
     "02. Computer Networks/06. VPN",
     "09. Automation/01. IaC",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
