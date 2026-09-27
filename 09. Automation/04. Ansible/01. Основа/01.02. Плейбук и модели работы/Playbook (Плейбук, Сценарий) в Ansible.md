@@ -26,5 +26,5 @@
         state: started
         enabled: yes
 ```
-- В примере идет работа с [[Nginx]].
+- В примере идет работа с [[Nginx]] при помощи модулей [[Apt модуль Ansible|apt]] и [[Service модуль Ansible|service]].
 <!--SR:!2026-08-11,9,250-->

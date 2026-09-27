@@ -10,7 +10,7 @@
 ***
 ***Пример.***
 ```yaml
-- name: настройка окружение
+- name: настройка окружения
   hosts: webservers
   become: yes
   tasks:

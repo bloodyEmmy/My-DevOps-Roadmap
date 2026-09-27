@@ -69,16 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Архитектура IPsec.md",
+                "file": "09. Automation/04. Ansible/00. Модули Ansible/become yes в Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектура IPsec"
+              "title": "become yes в Ansible"
+            }
+          },
+          {
+            "id": "f0969bfe00d1df25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/04. Ansible/00. Модули Ansible/Apt модуль Ansible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apt модуль Ansible"
+            }
+          },
+          {
+            "id": "f422c5cb5404bef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Service модуль Ansible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Service модуль Ansible"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -254,34 +282,35 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "8eec4836e184cbaa",
+  "active": "f422c5cb5404bef3",
   "lastOpenFiles": [
-    "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Протокол AH.md",
-    "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Архитектура IPsec.md",
-    "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Протокол ESP.md",
-    "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Протокол IKE.md",
-    "02. Computer Networks/04. Транспортный уровень/04.03. Netfilter, NAT и Firewall/Таблица NAT.md",
-    "02. Computer Networks/04. Транспортный уровень/04.03. Netfilter, NAT и Firewall/Network Address Translation (NAT).md",
-    "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec/Security Association (SA).md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Абонентское шифрование.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/VPN (Virtual Private Network).md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Site to Site VPN.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Remote Access VPN.md",
-    "07. Client Server Architecture/Клиент Серверная Архитектура.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Канальное (Шлюзовое) шифрование.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Туннель VPN.md",
-    "02. Computer Networks/06. VPN/06.03. ПАКи/Зачем нужен HSM.md",
-    "HSM.md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Работа VPN на сетевом уровне (TUN).md",
-    "02. Computer Networks/06. VPN/06.01. Основы/Работа VPN на канальном уровне (TAP).md",
-    "02. Computer Networks/06. VPN/06.04. Моделирование/Эмулятор (Подход моделирования сети).md",
-    "02. Computer Networks/06. VPN/06.04. Моделирование/Симулятор (Подход моделирования сети).md",
-    "02. Computer Networks/06. VPN/06.04. Моделирование/Инфраструктурное DevOps моделирование сети.md",
-    "02. Computer Networks/06. VPN/06.04. Моделирование/Причина и подходы моделирования VPN.md",
-    "06. Computer Architecture/02. ОЗУ/Виртуальная память.md",
-    "02. Computer Networks/06. VPN/06.03. ПАКи/ASIC.md",
-    "02. Computer Networks/06. VPN/06.03. ПАКи/Криптоускоритель.md",
-    "02. Computer Networks/06. VPN/06.03. ПАКи/Главный процессор в ПАКе.md",
+    "09. Automation/04. Ansible/00. Модули Ansible/Copy модуль Ansible.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Chmod с использованием восьмеричных чисел.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Chmod команда терминала.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Права доступа к файлу.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Символические ссылки (Мягкие, Симлинк).md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Module (Модуль) в Ansible.md",
+    "09. Automation/04. Ansible/00. Модули Ansible/Apt модуль Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Параметр модуля в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Tasks (Таски) в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Push Model в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Pull Model в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Playbook (Плейбук, Сценарий) в Ansible.md",
+    "Service модуль Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Play (Плей) в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Настройки hosts в плее Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Алгоритм работы Ansible на настраиваемом хосте.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Inventory (Инвентарь) в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Agentless в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Работа Ansible с DNS.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Дочерние группы хостов в Inventory Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Группа хостов в Inventory Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Встроенные группы хостов в Inventory Ansible.md",
+    "09. Automation/04. Ansible/00. Модули Ansible/become yes в Ansible.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Команды для работы с пакетами.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Суперпользователь (root).md",
+    "09. Automation/04. Ansible/00. Модули Ansible",
     "02. Computer Networks/06. VPN/06.04. Моделирование",
     "02. Computer Networks/03. Сетевой уровень/03.04. Стек протоколов IPsec",
     "02. Computer Networks/06. VPN/06.03. ПАКи",
@@ -290,7 +319,6 @@
     "02. Computer Networks/06. VPN",
     "09. Automation/01. IaC",
     "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
-    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь",
-    "09. Automation/04. Ansible/01. Основа"
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь"
   ]
 }
