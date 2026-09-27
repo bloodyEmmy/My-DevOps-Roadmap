@@ -13,6 +13,7 @@
 - name: настройка окружения
   hosts: webservers
   become: yes
+  
   tasks:
     - name: Обновить кэш
       # модуль для обновления
