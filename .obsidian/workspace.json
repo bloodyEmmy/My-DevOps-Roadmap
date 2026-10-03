@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/05. Consul/01. Механизм Service Discovery/Service Consumer (Потребитель).md",
+                "file": "09. Automation/05. Consul/01. Механизм Service Discovery/Метод Пульса (Heartbeat).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Consumer (Потребитель)"
+              "title": "Метод Пульса (Heartbeat)"
+            }
+          },
+          {
+            "id": "0bcf446f6a028d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Push Model"
+            }
+          },
+          {
+            "id": "ccebab51b4fbc1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/05. Consul/01. Механизм Service Discovery/Метод Допроса (Active Poking).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод Допроса (Active Poking)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pull ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,36 +254,36 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "d43b7fc12fc1708f",
+  "active": "ccebab51b4fbc1ee",
   "lastOpenFiles": [
+    "09. Automation/05. Consul/01. Механизм Service Discovery/Метод Пульса (Heartbeat).md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Push Model в Ansible.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Pull Model в Ansible.md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Push Model в CI CD.md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
+    "09. Automation/01. IaC/Идемпотентность.md",
+    "09. Automation/01. IaC/Самодокументируемость.md",
+    "09. Automation/01. IaC/Single Source of Truth (SSoT).md",
+    "09. Automation/01. IaC/IaC.md",
+    "09. Automation/05. Consul/01. Механизм Service Discovery/Метод Допроса (Active Poking).md",
+    "Pull Model.md",
+    "Push Model.md",
+    "09. Automation/05. Consul/01. Механизм Service Discovery/Health Checker (Смотритель).md",
+    "09. Automation/05. Consul/01. Механизм Service Discovery/Запрос адреса (Discovery).md",
     "09. Automation/05. Consul/01. Механизм Service Discovery/Self Registration (Саморегистрация).md",
     "09. Automation/05. Consul/01. Механизм Service Discovery/Service Consumer (Потребитель).md",
+    "09. Automation/05. Consul/01. Механизм Service Discovery/Service Discovery.md",
     "09. Automation/05. Consul/01. Механизм Service Discovery/Service Provider (Провайдер).md",
     "09. Automation/05. Consul/01. Механизм Service Discovery/Service Registry (Реестр).md",
-    "Запрос адреса (Discovery).md",
+    "09. Automation/03. Vagrant/02. База Vagrant/Три типа провайдеров в Vagrant.md",
+    "03. Docker/04. Docker Swarm/Токен.md",
+    "09. Automation/03. Vagrant/01. Основы виртуализации/Гипервизор.md",
+    "09. Automation/03. Vagrant/02. База Vagrant/Provider (Провайдер) в Vagrant.md",
+    "Kubernetes.md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Протокол HTTP.md",
     "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Методы (запросы) HTTP.md",
-    "09. Automation/05. Consul/01. Механизм Service Discovery/Service Discovery.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
-    "09. Automation/03. Vagrant/02. База Vagrant/Три типа провайдеров в Vagrant.md",
-    "Health Checker (Смотритель).md",
-    "Command модуль Ansible.md",
-    "Vars папка роли Ansible.md",
-    "Defaults папка роли Ansible.md",
-    "08. Databases/02. PostgreSQL/Postmaster (postgres).md",
-    "09. Automation/04. Ansible/02. Роли и ее директории/Files папка роли Ansible.md",
-    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Notify в Ansible.md",
-    "09. Automation/04. Ansible/02. Роли и ее директории/Handlers папка роли Ansible.md",
-    "09. Automation/04. Ansible/00. Модули Ansible/Template модуль Ansible.md",
-    "09. Automation/04. Ansible/00. Модули Ansible/Service модуль Ansible.md",
-    "09. Automation/04. Ansible/02. Роли и ее директории/Tasks папка роли Ansible.md",
     "09. Automation/05. Consul/01. Механизм Service Discovery",
-    "03. Docker/04. Docker Swarm/Etcd.md",
-    "Consul.md",
     "09. Automation/05. Consul",
-    "08. Databases/01. Вступление/DI контейнер.md",
-    "08. Databases/01. Вступление/Транзакция.md",
-    "08. Databases/01. Вступление/WAL (Write Ahead Logging).md",
     "09. Automation/04. Ansible/02. Роли и ее директории",
     "09. Automation/04. Ansible/00. Модули Ansible",
     "02. Computer Networks/06. VPN/06.04. Моделирование",
