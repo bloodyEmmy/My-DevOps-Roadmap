@@ -41,16 +41,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007. Client Server Architecture/02. Базовая терминология и инструменты/Basic Auth.md",
+                "file": "007. Client Server Architecture/02. Составляющие КСА и ее работа/Raft Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Auth"
+              "title": "Raft Log"
+            }
+          },
+          {
+            "id": "e0609146e598bf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003. Docker/05. Docker Swarm/04.02. Устройство кластера/Ingress Routing Mash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ingress Routing Mash"
+            }
+          },
+          {
+            "id": "ca6834c0e8809600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003. Docker/05. Docker Swarm/04.02. Устройство кластера/Ingress Routing Mash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ingress Routing Mash"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 366.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -125,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007. Client Server Architecture/02. Базовая терминология и инструменты/Basic Auth.md",
+                "file": "003. Docker/05. Docker Swarm/04.02. Устройство кластера/Ingress Routing Mash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,36 +253,36 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "ca6834c0e8809600",
   "lastOpenFiles": [
-    "007. Client Server Architecture/02. Базовая терминология и инструменты/Base64.md",
-    "007. Client Server Architecture/01. Основы КСА, взаимодействие хостов/Отпечаток сервера (SSH Key Fingerprint).md",
-    "007. Client Server Architecture/02. Базовая терминология и инструменты/Raft.md",
-    "Split Vote (Разделение голосов).md",
-    "кворум.md",
-    "009. Automation/05. Consul/01. Механизм Service Discovery/Метод Пульса (Heartbeat).md",
-    "003. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Лог контейнера.md",
-    "001. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Ввод, вывод, вывод ошибок.md",
-    "009. Automation/05. Consul/02. Основы Consul/Consul Server.md",
-    "Голосование серверов.md",
-    "003. Docker/04. Docker Swarm/Etcd.md",
-    "003. Docker/04. Docker Swarm/Ingress Network.md",
-    "003. Docker/04. Docker Swarm/Docker_gwbridge.md",
-    "003. Docker/04. Docker Swarm/Токен.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Лидер в Docker Swarm.md",
-    "002. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Широковещательный шторм (Broadcast Storm).md",
-    "Push Model.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Задача (Task) в Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Виды статусов узлов Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Рабочий узел (worker node) в Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Сервис в Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Состояния задачи в Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Узел в Swarm (Нода, Node).md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Управляющий узел (manager node, менеджер) в Swarm.md",
-    "003. Docker/04. Docker Swarm/04.01. Компоненты кластера/Docker Swarm.md",
-    "Raft Log.md",
-    "007. Client Server Architecture/02. Базовая терминология и инструменты",
-    "007. Client Server Architecture/01. Основы КСА, взаимодействие хостов",
+    "003. Docker/05. Docker Swarm/Docker_gwbridge.md",
+    "003. Docker/05. Docker Swarm/Метка (Label).md",
+    "003. Docker/05. Docker Swarm/Токен.md",
+    "003. Docker/05. Docker Swarm/04.02. Устройство кластера/Ingress Routing Mash.md",
+    "Endpoint.md",
+    "003. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
+    "Ingress.md",
+    "Round Robin.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Basic Auth.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Blueprint.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Endpoint в Клиент Серверной Архитектуре.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Кворум.md",
+    "007. Client Server Architecture/01. Основы и построение КСА/Алгоритм подключения клиента и сервера.md",
+    "003. Docker/00.04. Swarm Команды/Service ps команда Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Опция update команды node Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Node команда Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Swarm leave команда Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Swarm join token команда Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Swarm join команда Swarm.md",
+    "003. Docker/00.04. Swarm Команды/Swarm init команда Swarm.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Кластер.md",
+    "003. Docker/05. Docker Swarm/04.01. Компоненты кластера/Узел в Swarm (Нода, Node).md",
+    "002. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Порт.md",
+    "Split Brain.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа/Raft Log.md",
+    "003. Docker/05. Docker Swarm/04.01. Компоненты кластера/Управляющий узел (manager node, менеджер) в Swarm.md",
+    "007. Client Server Architecture/02. Составляющие КСА и ее работа",
+    "007. Client Server Architecture/01. Основы и построение КСА",
     "009. Automation/05. Consul/02. Основы Consul",
     "009. Automation/05. Consul/01. Механизм Service Discovery",
     "009. Automation/05. Consul",
