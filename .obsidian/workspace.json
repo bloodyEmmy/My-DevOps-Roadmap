@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007. Monitoring/01. Loki/Архитектура Loki (три компонента).md",
+                "file": "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектура Loki (три компонента)"
+              "title": "Зачем нужно автоматическое удаление логов"
             }
           }
         ],
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003. Docker/05. Docker Swarm/05.02. Устройство кластера/Проблема драйвера логирования в кластере Swarm.md",
+                "file": "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,8 +290,7 @@
               "title": "review-queue-list-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -310,43 +309,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "cb92030a3a0abb72",
+  "active": "a50322f1dd91035f",
   "lastOpenFiles": [
-    "007. Monitoring/01. Loki/Архитектура Loki (три компонента).md",
-    "001. Operating Systems/Unix/04. Окружение и Bash/Графическое окружение.md",
-    "001. Operating Systems/Unix/04. Окружение и Bash/Окружение.md",
-    "006. Automation/02. CI CD/01. Основные термины/CI CD Pipeline (Пайплайн).md",
-    "001. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Конвейер.md",
-    "007. Monitoring/01. Loki/Чанк (Chunk).md",
-    "007. Monitoring/01. Loki/Loki.md",
-    "007. Monitoring/01. Loki/Поиск Loki серверами Swarm.md",
-    "Без названия.md",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config/Common в Loki Config.md",
+    "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
+    "007. Monitoring/01. Loki/01. Основы/Правила (Рулсы) в мониторинге.md",
+    "Recording rules (записывающие правила).md",
+    "Alerting rules (правила алертинга).md",
+    "007. Monitoring/01. Loki/01. Основы/Чанк (Chunk).md",
+    "007. Monitoring/01. Loki/01. Основы/Фактор репликации.md",
+    "005. Client Server Architecture/01. Основы и построение КСА/Сервер (Клиент Серверная Архитектура).md",
+    "001. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+    "007. Monitoring/01. Loki/01. Основы/Loki.md",
+    "001. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Systemd (Init).md",
+    "001. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Сжатие данных.md",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config/Server в Loki Config.md",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config/Auth Enabled в Loki Config.md",
+    "002. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Идентификация.md",
+    "002. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Авторизация.md",
+    "007. Monitoring/01. Loki/01. Основы/Loki Config.md",
+    "003. Docker/00.03. Compose Команды/Volumes раздел Compose.md",
+    "007. Monitoring/01. Loki/01. Основы/Архитектура Loki (три компонента).md",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config",
+    "003. Docker/00.02. Docker Команды/Build команда Docker.md",
+    "007. Monitoring/01. Loki/01. Основы",
+    "006. Automation/03. Vagrant/00. Команды Vagrant/Box команда Vagrant.md",
+    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Описание нескольких машин в Vagrantfile.md",
+    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Проброс папок в Vagrantfile.md",
+    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Изменение характеристик железа в Vagrantfile.md",
+    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Проброс портов в Vagrantfile.md",
+    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Ansible Provisioner в Vagrantfile.md",
     "007. Monitoring/01. Loki",
     "007. Monitoring",
-    "002. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
-    "003. Docker/05. Docker Swarm/05.02. Устройство кластера/Проблема драйвера логирования в кластере Swarm.md",
-    "003. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Драйвер журналирования (логирования).md",
-    "002. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/AIMD.md",
-    "002. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Популярный метод борьбы с перегрузкой в TCP (Медленный старт + AIMD).md",
-    "002. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Медленный старт (Метод TCP).md",
-    "006. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Inventory (Инвентарь) в Ansible.md",
-    "003. Docker/00.02. Docker Команды/Info команда Docker.md",
-    "003. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Многоступенчатая сборка.md",
-    "003. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Лог контейнера.md",
-    "003. Docker/05. Docker Swarm/05.01. Компоненты кластера/Сервис в Swarm.md",
-    "003. Docker/05. Docker Swarm/05.01. Компоненты кластера/Задача (Task) в Swarm.md",
-    "003. Docker/05. Docker Swarm/05.01. Компоненты кластера/Docker Swarm.md",
-    "003. Docker/03. Сеть Docker/03.01. Основы устройства сети/Встроенный IPAM в Docker.md",
-    "002. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/IP Adress Management (IPAM).md",
-    "002. Computer Networks/03. Сетевой уровень/03.03. Управляющие протоколы сетевого уровня/Протокол DHCP.md",
-    "003. Docker/05. Docker Swarm/05.01. Компоненты кластера/Стек (Stack) в Swarm.md",
     "005. Client Server Architecture/02. Составляющие КСА и ее работа",
     "005. Client Server Architecture/01. Основы и построение КСА",
     "006. Automation/05. Consul/02. Основы Consul",
     "006. Automation/05. Consul/01. Механизм Service Discovery",
     "006. Automation/05. Consul",
-    "006. Automation/04. Ansible/02. Роли и ее директории",
-    "006. Automation/04. Ansible/00. Модули Ansible",
-    "002. Computer Networks/06. VPN/06.04. Моделирование"
+    "006. Automation/04. Ansible/02. Роли и ее директории"
   ]
 }
