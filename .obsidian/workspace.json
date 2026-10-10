@@ -4,137 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f69ccdbe6f8add8d",
+        "id": "272558a468a4022b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a8a97134e2fe38",
+            "id": "4336db997e9a6507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "009. Automation/04. Ansible/00. Модули Ansible/Apt модуль Ansible.md",
+                "file": "007. Monitoring/01. Loki/02. Элементы Loki Config/Автоудаление в Loki Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apt модуль Ansible"
+              "title": "Автоудаление в Loki Config"
             }
           },
           {
-            "id": "97c82fd801581233",
+            "id": "eae421e321ff8c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "009. Automation/03. Vagrant/00. Команды Vagrant/Global Status команда Vagrant.md",
+                "file": "004. Computer Architecture/01. Процессор/Кольца защиты процессора (Protection Rings).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Status команда Vagrant"
+              "title": "Кольца защиты процессора (Protection Rings)"
             }
           },
           {
-            "id": "99a264dcb066081a",
+            "id": "be64fe303babd493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007. Client Server Architecture/02. Составляющие КСА и ее работа/Raft Log.md",
+                "file": "007. Monitoring/02. Prometheus/Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raft Log"
+              "title": "Prometheus"
             }
           },
           {
-            "id": "e0609146e598bf3e",
+            "id": "2f9fa810f59e5eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003. Docker/05. Docker Swarm/05.02. Устройство кластера/Ingress Routing Mash.md",
+                "file": "Индексирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingress Routing Mash"
-            }
-          },
-          {
-            "id": "ca6834c0e8809600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003. Docker/00.04. Swarm Команды/Service scale команда Swarm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Service scale команда Swarm"
-            }
-          },
-          {
-            "id": "8e167afb592c36df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Драйвер журналирования (логирования).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Драйвер журналирования (логирования)"
-            }
-          },
-          {
-            "id": "a6a75103af869f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "009. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь/Inventory (Инвентарь) в Ansible.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inventory (Инвентарь) в Ansible"
-            }
-          },
-          {
-            "id": "3baf7903a3e36c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "007. Monitoring/01. Loki/Loki.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Loki"
-            }
-          },
-          {
-            "id": "a50322f1dd91035f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Зачем нужно автоматическое удаление логов"
+              "title": "Индексирование"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loki",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
+                "file": "007. Monitoring/02. Prometheus/Prometheus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,43 +239,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "a50322f1dd91035f",
+  "active": "be64fe303babd493",
   "lastOpenFiles": [
+    "000.02 Databases/01. Вступление/Временные ряды (Time Series).md",
+    "000.02 Databases/01. Вступление/TSDB.md",
+    "000.02 Databases/02. PostgreSQL/PostgreSQL.md",
+    "007. Monitoring/02. Prometheus/Prometheus.md",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config/Schema Config в Loki Config.md",
+    "007. Monitoring/02. Prometheus",
+    "007. Monitoring/01. Loki/02. Элементы Loki Config/Ring блока Common в Loki Config.md",
+    "006. Automation/05. Consul/02. Основы Consul/KV хранилище (KV Store, Consul KV).md",
+    "003. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
     "007. Monitoring/01. Loki/02. Элементы Loki Config/Common в Loki Config.md",
-    "007. Monitoring/01. Loki/01. Основы/Зачем нужно автоматическое удаление логов.md",
-    "007. Monitoring/01. Loki/01. Основы/Правила (Рулсы) в мониторинге.md",
-    "Recording rules (записывающие правила).md",
-    "Alerting rules (правила алертинга).md",
-    "007. Monitoring/01. Loki/01. Основы/Чанк (Chunk).md",
-    "007. Monitoring/01. Loki/01. Основы/Фактор репликации.md",
-    "005. Client Server Architecture/01. Основы и построение КСА/Сервер (Клиент Серверная Архитектура).md",
-    "001. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+    "Pull Model.md",
+    "006. Automation/01. IaC/Single Source of Truth (SSoT).md",
+    "007. Monitoring/01. Loki/01. Основы/Хеш кольцо (Hashing Ring).md",
+    "000.01 Algorithms and Data Structures/Теория/Структуры данных/Хеш функция.md",
+    "004. Computer Architecture/01. Процессор/Кольца защиты процессора (Protection Rings).md",
+    "BoltDB.md",
     "007. Monitoring/01. Loki/01. Основы/Loki.md",
-    "001. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Systemd (Init).md",
-    "001. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Сжатие данных.md",
-    "007. Monitoring/01. Loki/02. Элементы Loki Config/Server в Loki Config.md",
-    "007. Monitoring/01. Loki/02. Элементы Loki Config/Auth Enabled в Loki Config.md",
-    "002. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Идентификация.md",
-    "002. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Авторизация.md",
-    "007. Monitoring/01. Loki/01. Основы/Loki Config.md",
-    "003. Docker/00.03. Compose Команды/Volumes раздел Compose.md",
-    "007. Monitoring/01. Loki/01. Основы/Архитектура Loki (три компонента).md",
+    "Limits Config в Loki Config.md",
+    "Индексирование.md",
+    "001. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Файловый дескриптор (FD).md",
+    "006. Automation/03. Vagrant/01. Основы виртуализации/Virtqueues (Кольцевые буферы).md",
+    "001. Operating Systems/Unix/00.01. Команды терминала/Ranlib команда терминала.md",
+    "005. Client Server Architecture/02. Составляющие КСА и ее работа/Raft Log.md",
+    "001. Operating Systems/Unix/00.01. Команды терминала/Lpq команда терминала.md",
+    "001. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Journald (Systemd).md",
+    "000.01 Algorithms and Data Structures/Задачи Leetcode/Easy/0001. Two Sum.md",
+    "Stack deploy команда Swarm.md",
     "007. Monitoring/01. Loki/02. Элементы Loki Config",
-    "003. Docker/00.02. Docker Команды/Build команда Docker.md",
     "007. Monitoring/01. Loki/01. Основы",
-    "006. Automation/03. Vagrant/00. Команды Vagrant/Box команда Vagrant.md",
-    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Описание нескольких машин в Vagrantfile.md",
-    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Проброс папок в Vagrantfile.md",
-    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Изменение характеристик железа в Vagrantfile.md",
-    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Проброс портов в Vagrantfile.md",
-    "006. Automation/03. Vagrant/03. Устройство Vagrantfile/Ansible Provisioner в Vagrantfile.md",
     "007. Monitoring/01. Loki",
     "007. Monitoring",
     "005. Client Server Architecture/02. Составляющие КСА и ее работа",
     "005. Client Server Architecture/01. Основы и построение КСА",
     "006. Automation/05. Consul/02. Основы Consul",
     "006. Automation/05. Consul/01. Механизм Service Discovery",
-    "006. Automation/05. Consul",
-    "006. Automation/04. Ansible/02. Роли и ее директории"
+    "006. Automation/05. Consul"
   ]
 }
