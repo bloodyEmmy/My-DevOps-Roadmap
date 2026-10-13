@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack deploy команда Swarm.md",
+                "file": "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Лавинная маршрутизация (Flooding).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack deploy команда Swarm"
+              "title": "Лавинная маршрутизация (Flooding)"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack deploy команда Swarm.md",
+                "file": "008. Monitoring/01. Loki/01. Основы/Правила (Рулсы) в мониторинге.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,8 @@
               "title": "review-queue-list-view"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -255,32 +256,34 @@
   },
   "active": "94feca72d12afb32",
   "lastOpenFiles": [
-    "Split Brain.md",
-    "README.md",
-    "Recording rules (записывающие правила).md",
-    "Round Robin.md",
-    "Pull Model.md",
-    "NPU.md",
-    "Kubernetes.md",
-    "Blackbox Exporter.md",
-    "Alerting rules (правила алертинга).md",
-    "BoltDB.md",
-    "003. Docker/03. Сеть Docker/03.01. Основы устройства сети/Использование пространства имен существующего контейнера.md",
-    "Поды (Pods) в Kubernetes.md",
-    "008. Monitoring/02. Prometheus/02. Экспортеры/Экспортер.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Ad Hoc сеть.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Лавинная маршрутизация (Flooding).md",
+    "002. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Маршрутизация.md",
+    "Широковещательный шторм при лавинной маршрутизации.md",
+    "002. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Широковещательный шторм (Broadcast Storm).md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/VANET.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/UWSN.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/MANET.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Виды топологий сети.md",
+    "008. Monitoring/01. Loki/01. Основы/Правила (Рулсы) в мониторинге.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети",
+    "Alert (алерт).md",
+    "008. Monitoring/02. Prometheus/03. Prometheus.yml/Global в Prometheus.yml.md",
+    "008. Monitoring/01. Loki/02. Элементы Loki Config/Auth Enabled в Loki Config.md",
     "008. Monitoring/02. Prometheus/02. Экспортеры/cAdvisor.md",
-    "008. Monitoring/02. Prometheus/02. Экспортеры/Node Exporter.md",
-    "006. Automation/02. CI CD/01. Основные термины/CI CD раннер.md",
-    "003. Docker/00.03. Compose Команды/Volumes раздел Compose.md",
-    "Проброс папок для Node Exporter.md",
-    "001. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Proc (VFS).md",
-    "003. Docker/00.03. Compose Команды/Command раздел Compose.md",
-    "003. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Engine.md",
+    "008. Monitoring/02. Prometheus/03. Prometheus.yml",
+    "008. Monitoring/02. Prometheus/02. Экспортеры/Проброс папок в YML для экспортеров.md",
     "008. Monitoring/02. Prometheus/01. Основы/Связь Prometheus и Service Discovery.md",
-    "008. Monitoring/02. Prometheus/01. Основы/Скрапер.md",
+    "008. Monitoring/02. Prometheus/01. Основы/Условия корректной работы скрапера.md",
     "008. Monitoring/02. Prometheus/01. Основы/Таргеты в Prometheus.md",
+    "008. Monitoring/02. Prometheus/02. Экспортеры/Node Exporter.md",
+    "008. Monitoring/02. Prometheus/02. Экспортеры/Blackbox Exporter.md",
+    "008. Monitoring/02. Prometheus/02. Экспортеры/Экспортер.md",
     "008. Monitoring/02. Prometheus/01. Основы/Prometheus.md",
-    "008. Monitoring/02. Prometheus/01. Основы/Эндпойнт metrics в Prometheus.md",
+    "002. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Root уровень домена.md",
+    "002. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный DNS сервер.md",
+    "001. Operating Systems/Unix/00.01. Команды терминала/Ping команда терминала.md",
+    "002. Computer Networks/05. Прикладной уровень/05.02. HTTP/Статусы (коды) HTTP.md",
     "008. Monitoring/02. Prometheus/02. Экспортеры",
     "008. Monitoring/02. Prometheus/01. Основы",
     "008. Monitoring/02. Prometheus",
@@ -288,8 +291,6 @@
     "008. Monitoring/01. Loki/01. Основы",
     "008. Monitoring/01. Loki",
     "008. Monitoring",
-    "005. Client Server Architecture/02. Составляющие КСА и ее работа",
-    "005. Client Server Architecture/01. Основы и построение КСА",
-    "006. Automation/05. Consul/02. Основы Consul"
+    "005. Client Server Architecture/02. Составляющие КСА и ее работа"
   ]
 }
