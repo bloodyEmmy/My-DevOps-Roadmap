@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Лавинная маршрутизация (Flooding).md",
+                "file": "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/RIP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лавинная маршрутизация (Flooding)"
+              "title": "RIP"
             }
           },
           {
@@ -254,10 +254,19 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "94feca72d12afb32",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Ad Hoc сеть.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Дистанционно векторная маршрутизация.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/RIP.md",
+    "002. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Виды адресов.md",
+    "002. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Хоп.md",
+    "002. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/TTL (Time To Live).md",
+    "001. Operating Systems/Unix/00.01. Команды терминала/Traceroute команда терминала.md",
+    "002. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Таблица маршрутизации.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Почему Ad Hoc сети работают на сетевом уровне, а не канальном.md",
+    "002. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Подсеть.md",
     "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Лавинная маршрутизация (Flooding).md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/Ad Hoc сеть.md",
     "002. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Маршрутизация.md",
     "Широковещательный шторм при лавинной маршрутизации.md",
     "002. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/Широковещательный шторм (Broadcast Storm).md",
@@ -275,15 +284,6 @@
     "008. Monitoring/02. Prometheus/02. Экспортеры/Проброс папок в YML для экспортеров.md",
     "008. Monitoring/02. Prometheus/01. Основы/Связь Prometheus и Service Discovery.md",
     "008. Monitoring/02. Prometheus/01. Основы/Условия корректной работы скрапера.md",
-    "008. Monitoring/02. Prometheus/01. Основы/Таргеты в Prometheus.md",
-    "008. Monitoring/02. Prometheus/02. Экспортеры/Node Exporter.md",
-    "008. Monitoring/02. Prometheus/02. Экспортеры/Blackbox Exporter.md",
-    "008. Monitoring/02. Prometheus/02. Экспортеры/Экспортер.md",
-    "008. Monitoring/02. Prometheus/01. Основы/Prometheus.md",
-    "002. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Root уровень домена.md",
-    "002. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Рекурсивный DNS сервер.md",
-    "001. Operating Systems/Unix/00.01. Команды терминала/Ping команда терминала.md",
-    "002. Computer Networks/05. Прикладной уровень/05.02. HTTP/Статусы (коды) HTTP.md",
     "008. Monitoring/02. Prometheus/02. Экспортеры",
     "008. Monitoring/02. Prometheus/01. Основы",
     "008. Monitoring/02. Prometheus",
