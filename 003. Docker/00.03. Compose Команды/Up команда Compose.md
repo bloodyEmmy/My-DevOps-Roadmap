@@ -1,7 +1,7 @@
 #flashcards/Docker
 ***
 Запускает все сервисы, описанные в файле [[Docker Compose]].
-Если образов нет - соберет их (если указан [[Build команда Docker|build]]) или скачает ([[Image раздел Compose|compose image]]).
+- Если образов нет - соберет их (если указан [[Build команда Docker|build]]) или скачает ([[Image раздел Compose|compose image]]).
 ***
 ***Синтаксис.***
 ```bash

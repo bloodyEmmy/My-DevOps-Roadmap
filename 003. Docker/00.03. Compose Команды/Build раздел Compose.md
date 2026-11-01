@@ -4,9 +4,9 @@
 ***Пример.***
 ```yaml
 services:
-	app:
-		build:
-			context: .
-			dockerfile: Dockerfile
+  app:
+	build:
+	  context: .
+	  dockerfile: Dockerfile
 ```
 <!--SR:!2026-08-10,9,250-->

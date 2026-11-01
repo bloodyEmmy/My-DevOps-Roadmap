@@ -4,8 +4,8 @@
 ***Пример.***
 ```yaml
 environment:
-	- DB_USER=postgres
-	- DB_PASS=1234
+  - DB_USER=postgres
+  - DB_PASS=1234
 ```
 - Таким образом прописываются "жесткие" статические переменные. Они одинаковые для всех запусков, если файл [[Docker Compose]] не меняется.
 - Идет упоминание [[PostgreSQL]].
@@ -13,7 +13,7 @@ environment:
 ***Другой вид.***
 ```yaml
 environment:
-	DEBUG: "1"
-	LOG_LEVEL: "info"
+  DEBUG: "1"
+  LOG_LEVEL: "info"
 ```
 <!--SR:!2026-10-31,8,190-->
