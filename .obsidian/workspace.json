@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Msgsnd системный вызов.md",
+                "file": "001. Operating Systems/Unix/00.02. Системные вызовы/Msgsnd системный вызов.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. Computer Networks/06. VPN/06.03. ПАКи/HSM.md",
+                "file": "002. Computer Networks/05. Прикладной уровень/05.05. FTP/Протокол FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HSM"
+              "title": "Протокол FTP"
             }
           },
           {
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002. Computer Networks/06. VPN/06.03. ПАКи/HSM.md",
+                "file": "002. Computer Networks/05. Прикладной уровень/05.05. FTP/Протокол FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,34 +309,35 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "f1cedf4639da7100",
   "lastOpenFiles": [
-    "002. Computer Networks/06. VPN/06.03. ПАКи/Зачем нужен HSM.md",
+    "002. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/NCP.md",
+    "002. Computer Networks/05. Прикладной уровень/05.05. FTP/Протокол FTP.md",
+    "002. Computer Networks/05. Прикладной уровень/05.05. FTP",
+    "002. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
+    "002. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/ARPANET.md",
+    "008. Monitoring/01. Loki/01. Основы/Чанк (Chunk).md",
+    "002. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/SSID.md",
+    "002. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/OFDM.md",
+    "002. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/MIMO.md",
+    "002. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/CSMA CA.md",
+    "002. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/ACK.md",
+    "002. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/BPDU.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Модель OSI.md",
+    "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети/MANET.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Виды топологий сети.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Интерфейс уровня.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Открытая система.md",
+    "002. Computer Networks/01. Топология, уровни и модели/Модель TCP IP.md",
+    "001. Operating Systems/Unix/00.02. Системные вызовы/Msgrcv системный вызов.md",
+    "004. Computer Architecture/02. ОЗУ/Буфер.md",
+    "001. Operating Systems/Unix/00.02. Системные вызовы/Msgsnd системный вызов.md",
+    "001. Operating Systems/Unix/00.02. Системные вызовы/Msgget системный вызов.md",
     "002. Computer Networks/06. VPN/06.03. ПАКи/HSM.md",
+    "002. Computer Networks/06. VPN/06.03. ПАКи/Зачем нужен HSM.md",
     "Gossip.md",
     "Endpoint.md",
     "Command модуль Ansible.md",
-    "BoltDB.md",
-    "Alerting rules (правила алертинга).md",
-    "Alert (алерт).md",
-    "Индексирование.md",
-    "Именованный канал.md",
-    "001. Operating Systems/Unix/03. Межпроцессное взаимодействие/03.01. Потоки и дескрипторы/IPC.md",
-    "strongSwan.md",
-    "Vars папка роли Ansible.md",
-    "Stack deploy команда Swarm.md",
-    "NPU.md",
-    "Pull Model.md",
-    "Msgrcv системный вызов.md",
-    "Msgsnd системный вызов.md",
-    "001. Operating Systems/Unix/00.02. Системные вызовы/Msgget системный вызов.md",
-    "001. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Chmod с использованием восьмеричных чисел.md",
-    "001. Operating Systems/Unix/00.02. Системные вызовы/Ftok системный вызов.md",
-    "001. Operating Systems/Unix/00.02. Системные вызовы/Stat системный вызов.md",
-    "001. Operating Systems/Unix/00.02. Системные вызовы/Ioctl системный вызов.md",
-    "001. Operating Systems/Unix/00.02. Системные вызовы/Fork системный вызов.md",
-    "001. Operating Systems/Unix/03. Межпроцессное взаимодействие/03.01. Потоки и дескрипторы/IPC ключ.md",
-    "002. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Идентификация.md",
     "001. Operating Systems/Unix/03. Межпроцессное взаимодействие/03.03. Очереди сообщений процессов",
     "002. Computer Networks/03. Сетевой уровень/03.05. Ad-Hoc сети",
     "008. Monitoring/02. Prometheus/03. Prometheus.yml",
@@ -345,7 +346,6 @@
     "008. Monitoring/02. Prometheus",
     "008. Monitoring/01. Loki/02. Элементы Loki Config",
     "008. Monitoring/01. Loki/01. Основы",
-    "008. Monitoring/01. Loki",
-    "008. Monitoring"
+    "008. Monitoring/01. Loki"
   ]
 }
